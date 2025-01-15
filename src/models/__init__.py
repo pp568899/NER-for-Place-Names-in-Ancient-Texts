@@ -1,1 +1,0 @@
-from .bert_bilstm_mha_crf import BertBiLSTMMHACRF 
