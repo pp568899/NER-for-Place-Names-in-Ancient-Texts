@@ -1,0 +1,1060 @@
+2024-12-01 20:52:40,903 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 20:52:41,892 - INFO - Loaded 5 training examples
+2024-12-01 20:54:48,144 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 20:54:48,927 - INFO - Loaded 5 training examples
+2024-12-01 20:56:35,422 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 20:56:36,274 - INFO - Loaded 5 training examples
+2024-12-01 20:57:13,370 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 20:57:14,848 - INFO - Loaded 5 training examples
+2024-12-01 20:57:25,601 - INFO - Epoch 1/20, Average Loss: 18.0980
+2024-12-01 20:57:26,295 - INFO - New best model saved with loss: 18.0980
+2024-12-01 20:57:33,900 - INFO - Epoch 2/20, Average Loss: 25.9126
+2024-12-01 20:57:43,838 - INFO - Epoch 3/20, Average Loss: 25.8768
+2024-12-01 20:57:51,502 - INFO - Epoch 4/20, Average Loss: 24.3018
+2024-12-01 20:57:58,891 - INFO - Epoch 5/20, Average Loss: 24.2181
+2024-12-01 20:58:06,569 - INFO - Epoch 6/20, Average Loss: 24.1576
+2024-12-01 20:58:13,934 - INFO - Epoch 7/20, Average Loss: 17.8376
+2024-12-01 20:58:14,394 - INFO - New best model saved with loss: 17.8376
+2024-12-01 20:58:28,951 - INFO - Epoch 8/20, Average Loss: 17.7508
+2024-12-01 20:58:29,979 - INFO - New best model saved with loss: 17.7508
+2024-12-01 20:58:45,281 - INFO - Epoch 9/20, Average Loss: 23.8322
+2024-12-01 20:59:04,877 - INFO - Epoch 10/20, Average Loss: 19.2213
+2024-12-01 20:59:20,380 - INFO - Epoch 11/20, Average Loss: 19.0648
+2024-12-01 20:59:37,960 - INFO - Epoch 12/20, Average Loss: 17.2548
+2024-12-01 20:59:38,720 - INFO - New best model saved with loss: 17.2548
+2024-12-01 20:59:53,637 - INFO - Epoch 13/20, Average Loss: 24.4542
+2024-12-01 21:00:07,460 - INFO - Epoch 14/20, Average Loss: 23.0003
+2024-12-01 21:00:21,128 - INFO - Epoch 15/20, Average Loss: 22.7162
+2024-12-01 21:00:36,594 - INFO - Epoch 16/20, Average Loss: 16.4253
+2024-12-01 21:00:37,370 - INFO - New best model saved with loss: 16.4253
+2024-12-01 21:00:50,971 - INFO - Epoch 17/20, Average Loss: 17.6483
+2024-12-01 21:01:04,844 - INFO - Epoch 18/20, Average Loss: 15.8946
+2024-12-01 21:01:05,576 - INFO - New best model saved with loss: 15.8946
+2024-12-01 21:01:19,410 - INFO - Epoch 19/20, Average Loss: 22.2298
+2024-12-01 21:01:33,506 - INFO - Epoch 20/20, Average Loss: 16.5366
+2024-12-01 21:08:11,399 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 21:08:12,067 - INFO - Loaded 29 training examples
+2024-12-01 21:09:08,816 - INFO - Epoch 1/30, Average Loss: 20.9209
+2024-12-01 21:09:09,251 - INFO - New best model saved with loss: 20.9209
+2024-12-01 21:09:51,368 - INFO - Epoch 2/30, Average Loss: 20.7210
+2024-12-01 21:09:51,797 - INFO - New best model saved with loss: 20.7210
+2024-12-01 21:10:31,686 - INFO - Epoch 3/30, Average Loss: 20.3487
+2024-12-01 21:10:32,120 - INFO - New best model saved with loss: 20.3487
+2024-12-01 21:11:14,830 - INFO - Epoch 4/30, Average Loss: 20.6341
+2024-12-01 21:12:00,703 - INFO - Epoch 5/30, Average Loss: 20.8542
+2024-12-01 21:12:45,085 - INFO - Epoch 6/30, Average Loss: 20.6293
+2024-12-01 21:13:37,071 - INFO - Epoch 7/30, Average Loss: 20.8556
+2024-12-01 21:14:29,490 - INFO - Epoch 8/30, Average Loss: 20.6586
+2024-12-01 21:15:17,600 - INFO - Epoch 9/30, Average Loss: 20.7038
+2024-12-01 21:16:12,774 - INFO - Epoch 10/30, Average Loss: 20.1701
+2024-12-01 21:16:13,312 - INFO - New best model saved with loss: 20.1701
+2024-12-01 21:17:05,108 - INFO - Epoch 11/30, Average Loss: 19.8961
+2024-12-01 21:17:05,632 - INFO - New best model saved with loss: 19.8961
+2024-12-01 21:17:59,792 - INFO - Epoch 12/30, Average Loss: 20.0382
+2024-12-01 21:18:53,939 - INFO - Epoch 13/30, Average Loss: 20.1838
+2024-12-01 21:19:45,301 - INFO - Epoch 14/30, Average Loss: 19.3687
+2024-12-01 21:19:45,812 - INFO - New best model saved with loss: 19.3687
+2024-12-01 21:20:39,601 - INFO - Epoch 15/30, Average Loss: 18.9281
+2024-12-01 21:20:40,101 - INFO - New best model saved with loss: 18.9281
+2024-12-01 21:21:30,684 - INFO - Epoch 16/30, Average Loss: 18.9557
+2024-12-01 21:22:27,198 - INFO - Epoch 17/30, Average Loss: 18.3737
+2024-12-01 21:22:27,723 - INFO - New best model saved with loss: 18.3737
+2024-12-01 21:23:21,598 - INFO - Epoch 18/30, Average Loss: 18.1050
+2024-12-01 21:23:22,122 - INFO - New best model saved with loss: 18.1050
+2024-12-01 21:24:23,351 - INFO - Epoch 19/30, Average Loss: 17.2495
+2024-12-01 21:24:23,873 - INFO - New best model saved with loss: 17.2495
+2024-12-01 21:25:23,912 - INFO - Epoch 20/30, Average Loss: 17.1194
+2024-12-01 21:25:24,618 - INFO - New best model saved with loss: 17.1194
+2024-12-01 21:26:43,755 - INFO - Epoch 21/30, Average Loss: 16.0395
+2024-12-01 21:26:44,503 - INFO - New best model saved with loss: 16.0395
+2024-12-01 21:27:58,627 - INFO - Epoch 22/30, Average Loss: 16.1499
+2024-12-01 21:29:15,717 - INFO - Epoch 23/30, Average Loss: 15.7372
+2024-12-01 21:29:16,602 - INFO - New best model saved with loss: 15.7372
+2024-12-01 21:30:31,422 - INFO - Epoch 24/30, Average Loss: 15.0699
+2024-12-01 21:30:32,196 - INFO - New best model saved with loss: 15.0699
+2024-12-01 21:31:58,853 - INFO - Epoch 25/30, Average Loss: 14.9759
+2024-12-01 21:31:59,607 - INFO - New best model saved with loss: 14.9759
+2024-12-01 21:33:10,434 - INFO - Epoch 26/30, Average Loss: 14.6986
+2024-12-01 21:33:11,136 - INFO - New best model saved with loss: 14.6986
+2024-12-01 21:34:28,931 - INFO - Epoch 27/30, Average Loss: 14.2606
+2024-12-01 21:34:29,658 - INFO - New best model saved with loss: 14.2606
+2024-12-01 21:36:10,575 - INFO - Epoch 28/30, Average Loss: 13.9473
+2024-12-01 21:36:11,372 - INFO - New best model saved with loss: 13.9473
+2024-12-01 21:37:27,010 - INFO - Epoch 29/30, Average Loss: 13.9015
+2024-12-01 21:37:27,765 - INFO - New best model saved with loss: 13.9015
+2024-12-01 21:38:53,371 - INFO - Epoch 30/30, Average Loss: 13.9593
+2024-12-01 21:44:10,685 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 21:44:11,677 - INFO - Loaded 29 training examples
+2024-12-01 21:45:29,469 - INFO - Epoch 1/30, Average Loss: 20.4416
+2024-12-01 21:45:44,180 - INFO - Epoch 1/30, Train Loss: 20.4416, Val Loss: 20.5815
+2024-12-01 21:45:44,974 - INFO - New best model saved with validation loss: 20.5815
+2024-12-01 21:47:28,707 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 21:47:29,371 - INFO - Loaded 29 training examples
+2024-12-01 21:49:07,506 - INFO - Epoch 1/30, Average Loss: 19.7454
+2024-12-01 21:49:19,698 - INFO - Epoch 1/30, Train Loss: 19.7454, Val Loss: 20.3008
+2024-12-01 21:49:20,463 - INFO - New best model saved with validation loss: 20.3008
+2024-12-01 21:51:29,407 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 21:51:30,067 - INFO - Loaded 29 training examples
+2024-12-01 21:57:39,497 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 21:57:41,142 - INFO - Loaded 29 training examples
+2024-12-01 21:58:47,838 - INFO - Epoch 1/30, Average Loss: 20.7314
+2024-12-01 21:58:53,000 - INFO - Epoch 1/30, Train Loss: 20.7314, Val Loss: 20.7921
+2024-12-01 21:58:55,601 - INFO - New best model saved with validation loss: 20.7921
+2024-12-01 22:00:17,634 - INFO - Epoch 2/30, Average Loss: 20.7501
+2024-12-01 22:00:21,640 - INFO - Epoch 2/30, Train Loss: 20.7501, Val Loss: 20.7673
+2024-12-01 22:00:22,673 - INFO - New best model saved with validation loss: 20.7673
+2024-12-01 22:01:35,020 - INFO - Epoch 3/30, Average Loss: 20.7235
+2024-12-01 22:01:39,031 - INFO - Epoch 3/30, Train Loss: 20.7235, Val Loss: 20.4501
+2024-12-01 22:01:39,768 - INFO - New best model saved with validation loss: 20.4501
+2024-12-01 22:01:48,163 - INFO - Epoch 4/30, Average Loss: 20.8042
+2024-12-01 22:01:49,649 - INFO - Epoch 4/30, Train Loss: 20.8042, Val Loss: 20.6877
+2024-12-01 22:01:58,785 - INFO - Epoch 5/30, Average Loss: 20.4850
+2024-12-01 22:02:00,538 - INFO - Epoch 5/30, Train Loss: 20.4850, Val Loss: 20.5546
+2024-12-01 22:02:07,345 - INFO - Epoch 6/30, Average Loss: 20.6344
+2024-12-01 22:02:08,848 - INFO - Epoch 6/30, Train Loss: 20.6344, Val Loss: 20.3921
+2024-12-01 22:02:09,319 - INFO - New best model saved with validation loss: 20.3921
+2024-12-01 22:02:15,833 - INFO - Epoch 7/30, Average Loss: 20.1342
+2024-12-01 22:02:17,355 - INFO - Epoch 7/30, Train Loss: 20.1342, Val Loss: 20.3717
+2024-12-01 22:02:17,841 - INFO - New best model saved with validation loss: 20.3717
+2024-12-01 22:02:24,763 - INFO - Epoch 8/30, Average Loss: 20.3716
+2024-12-01 22:02:26,313 - INFO - Epoch 8/30, Train Loss: 20.3716, Val Loss: 20.0599
+2024-12-01 22:02:26,776 - INFO - New best model saved with validation loss: 20.0599
+2024-12-01 22:02:33,093 - INFO - Epoch 9/30, Average Loss: 20.1772
+2024-12-01 22:02:34,622 - INFO - Epoch 9/30, Train Loss: 20.1772, Val Loss: 19.8916
+2024-12-01 22:02:35,090 - INFO - New best model saved with validation loss: 19.8916
+2024-12-01 22:02:41,518 - INFO - Epoch 10/30, Average Loss: 20.1329
+2024-12-01 22:02:43,048 - INFO - Epoch 10/30, Train Loss: 20.1329, Val Loss: 19.8382
+2024-12-01 22:02:43,517 - INFO - New best model saved with validation loss: 19.8382
+2024-12-01 22:02:50,149 - INFO - Epoch 11/30, Average Loss: 19.8103
+2024-12-01 22:02:51,703 - INFO - Epoch 11/30, Train Loss: 19.8103, Val Loss: 19.4695
+2024-12-01 22:02:52,184 - INFO - New best model saved with validation loss: 19.4695
+2024-12-01 22:02:59,447 - INFO - Epoch 12/30, Average Loss: 19.7400
+2024-12-01 22:03:01,050 - INFO - Epoch 12/30, Train Loss: 19.7400, Val Loss: 19.3657
+2024-12-01 22:03:01,524 - INFO - New best model saved with validation loss: 19.3657
+2024-12-01 22:03:08,700 - INFO - Epoch 13/30, Average Loss: 19.4480
+2024-12-01 22:03:10,353 - INFO - Epoch 13/30, Train Loss: 19.4480, Val Loss: 19.3101
+2024-12-01 22:03:10,839 - INFO - New best model saved with validation loss: 19.3101
+2024-12-01 22:03:17,781 - INFO - Epoch 14/30, Average Loss: 19.2299
+2024-12-01 22:03:19,350 - INFO - Epoch 14/30, Train Loss: 19.2299, Val Loss: 18.9109
+2024-12-01 22:03:19,837 - INFO - New best model saved with validation loss: 18.9109
+2024-12-01 22:03:26,255 - INFO - Epoch 15/30, Average Loss: 18.9400
+2024-12-01 22:03:27,825 - INFO - Epoch 15/30, Train Loss: 18.9400, Val Loss: 18.7241
+2024-12-01 22:03:28,293 - INFO - New best model saved with validation loss: 18.7241
+2024-12-01 22:03:34,699 - INFO - Epoch 16/30, Average Loss: 18.6431
+2024-12-01 22:03:36,272 - INFO - Epoch 16/30, Train Loss: 18.6431, Val Loss: 18.3357
+2024-12-01 22:03:36,740 - INFO - New best model saved with validation loss: 18.3357
+2024-12-01 22:03:43,043 - INFO - Epoch 17/30, Average Loss: 18.5498
+2024-12-01 22:03:44,657 - INFO - Epoch 17/30, Train Loss: 18.5498, Val Loss: 18.0962
+2024-12-01 22:03:45,130 - INFO - New best model saved with validation loss: 18.0962
+2024-12-01 22:03:51,537 - INFO - Epoch 18/30, Average Loss: 17.9773
+2024-12-01 22:03:53,069 - INFO - Epoch 18/30, Train Loss: 17.9773, Val Loss: 17.8520
+2024-12-01 22:03:53,545 - INFO - New best model saved with validation loss: 17.8520
+2024-12-01 22:04:00,163 - INFO - Epoch 19/30, Average Loss: 17.7008
+2024-12-01 22:04:01,732 - INFO - Epoch 19/30, Train Loss: 17.7008, Val Loss: 17.4079
+2024-12-01 22:04:02,208 - INFO - New best model saved with validation loss: 17.4079
+2024-12-01 22:04:08,691 - INFO - Epoch 20/30, Average Loss: 17.5356
+2024-12-01 22:04:10,260 - INFO - Epoch 20/30, Train Loss: 17.5356, Val Loss: 17.1615
+2024-12-01 22:04:10,736 - INFO - New best model saved with validation loss: 17.1615
+2024-12-01 22:04:17,235 - INFO - Epoch 21/30, Average Loss: 17.1585
+2024-12-01 22:04:18,777 - INFO - Epoch 21/30, Train Loss: 17.1585, Val Loss: 16.7111
+2024-12-01 22:04:19,235 - INFO - New best model saved with validation loss: 16.7111
+2024-12-01 22:04:25,580 - INFO - Epoch 22/30, Average Loss: 16.7345
+2024-12-01 22:04:27,215 - INFO - Epoch 22/30, Train Loss: 16.7345, Val Loss: 16.1112
+2024-12-01 22:04:27,692 - INFO - New best model saved with validation loss: 16.1112
+2024-12-01 22:04:34,184 - INFO - Epoch 23/30, Average Loss: 16.2731
+2024-12-01 22:04:35,750 - INFO - Epoch 23/30, Train Loss: 16.2731, Val Loss: 15.6053
+2024-12-01 22:04:36,233 - INFO - New best model saved with validation loss: 15.6053
+2024-12-01 22:04:42,746 - INFO - Epoch 24/30, Average Loss: 15.7952
+2024-12-01 22:04:44,343 - INFO - Epoch 24/30, Train Loss: 15.7952, Val Loss: 15.5540
+2024-12-01 22:04:44,838 - INFO - New best model saved with validation loss: 15.5540
+2024-12-01 22:04:51,446 - INFO - Epoch 25/30, Average Loss: 15.6014
+2024-12-01 22:04:53,021 - INFO - Epoch 25/30, Train Loss: 15.6014, Val Loss: 15.1227
+2024-12-01 22:04:53,502 - INFO - New best model saved with validation loss: 15.1227
+2024-12-01 22:05:00,084 - INFO - Epoch 26/30, Average Loss: 15.1288
+2024-12-01 22:05:01,664 - INFO - Epoch 26/30, Train Loss: 15.1288, Val Loss: 14.6942
+2024-12-01 22:05:02,138 - INFO - New best model saved with validation loss: 14.6942
+2024-12-01 22:05:08,636 - INFO - Epoch 27/30, Average Loss: 14.9945
+2024-12-01 22:05:10,187 - INFO - Epoch 27/30, Train Loss: 14.9945, Val Loss: 14.5605
+2024-12-01 22:05:10,658 - INFO - New best model saved with validation loss: 14.5605
+2024-12-01 22:05:17,049 - INFO - Epoch 28/30, Average Loss: 14.6171
+2024-12-01 22:05:18,616 - INFO - Epoch 28/30, Train Loss: 14.6171, Val Loss: 14.3279
+2024-12-01 22:05:19,124 - INFO - New best model saved with validation loss: 14.3279
+2024-12-01 22:05:25,562 - INFO - Epoch 29/30, Average Loss: 14.5236
+2024-12-01 22:05:27,097 - INFO - Epoch 29/30, Train Loss: 14.5236, Val Loss: 14.3484
+2024-12-01 22:05:33,513 - INFO - Epoch 30/30, Average Loss: 14.2780
+2024-12-01 22:05:35,115 - INFO - Epoch 30/30, Train Loss: 14.2780, Val Loss: 14.1442
+2024-12-01 22:05:35,593 - INFO - New best model saved with validation loss: 14.1442
+2024-12-01 22:24:59,395 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 22:25:00,676 - INFO - Loaded 29 training examples
+2024-12-01 22:25:13,435 - INFO - Epoch 1/50, Average Loss: 19.7521
+2024-12-01 22:25:14,923 - INFO - Epoch 1/50, Train Loss: 19.7521, Val Loss: 20.4286
+2024-12-01 22:25:15,613 - INFO - New best model saved with validation loss: 20.4286
+2024-12-01 22:25:24,358 - INFO - Epoch 2/50, Average Loss: 21.3737
+2024-12-01 22:25:25,910 - INFO - Epoch 2/50, Train Loss: 21.3737, Val Loss: 19.6505
+2024-12-01 22:25:26,439 - INFO - New best model saved with validation loss: 19.6505
+2024-12-01 22:25:38,938 - INFO - Epoch 3/50, Average Loss: 20.8585
+2024-12-01 22:25:40,424 - INFO - Epoch 3/50, Train Loss: 20.8585, Val Loss: 20.1496
+2024-12-01 22:25:49,160 - INFO - Epoch 4/50, Average Loss: 19.5501
+2024-12-01 22:25:50,775 - INFO - Epoch 4/50, Train Loss: 19.5501, Val Loss: 18.3995
+2024-12-01 22:25:51,200 - INFO - New best model saved with validation loss: 18.3995
+2024-12-01 22:26:00,706 - INFO - Epoch 5/50, Average Loss: 18.7160
+2024-12-01 22:26:02,172 - INFO - Epoch 5/50, Train Loss: 18.7160, Val Loss: 18.2425
+2024-12-01 22:26:02,612 - INFO - New best model saved with validation loss: 18.2425
+2024-12-01 22:26:11,837 - INFO - Epoch 6/50, Average Loss: 16.8903
+2024-12-01 22:26:13,350 - INFO - Epoch 6/50, Train Loss: 16.8903, Val Loss: 15.3238
+2024-12-01 22:26:13,794 - INFO - New best model saved with validation loss: 15.3238
+2024-12-01 22:26:22,499 - INFO - Epoch 7/50, Average Loss: 16.3127
+2024-12-01 22:26:24,084 - INFO - Epoch 7/50, Train Loss: 16.3127, Val Loss: 14.5897
+2024-12-01 22:26:24,534 - INFO - New best model saved with validation loss: 14.5897
+2024-12-01 22:26:33,576 - INFO - Epoch 8/50, Average Loss: 14.9417
+2024-12-01 22:26:35,241 - INFO - Epoch 8/50, Train Loss: 14.9417, Val Loss: 15.1351
+2024-12-01 22:26:44,303 - INFO - Epoch 9/50, Average Loss: 15.1428
+2024-12-01 22:26:45,887 - INFO - Epoch 9/50, Train Loss: 15.1428, Val Loss: 14.0302
+2024-12-01 22:26:46,342 - INFO - New best model saved with validation loss: 14.0302
+2024-12-01 22:26:55,139 - INFO - Epoch 10/50, Average Loss: 15.1006
+2024-12-01 22:26:56,929 - INFO - Epoch 10/50, Train Loss: 15.1006, Val Loss: 13.4396
+2024-12-01 22:26:57,386 - INFO - New best model saved with validation loss: 13.4396
+2024-12-01 22:27:06,541 - INFO - Epoch 11/50, Average Loss: 13.3727
+2024-12-01 22:27:08,149 - INFO - Epoch 11/50, Train Loss: 13.3727, Val Loss: 13.7079
+2024-12-01 22:27:16,499 - INFO - Epoch 12/50, Average Loss: 13.2881
+2024-12-01 22:27:18,172 - INFO - Epoch 12/50, Train Loss: 13.2881, Val Loss: 14.7550
+2024-12-01 22:27:27,235 - INFO - Epoch 13/50, Average Loss: 13.1991
+2024-12-01 22:27:28,887 - INFO - Epoch 13/50, Train Loss: 13.1991, Val Loss: 12.9312
+2024-12-01 22:27:29,353 - INFO - New best model saved with validation loss: 12.9312
+2024-12-01 22:27:38,426 - INFO - Epoch 14/50, Average Loss: 13.6965
+2024-12-01 22:27:40,081 - INFO - Epoch 14/50, Train Loss: 13.6965, Val Loss: 14.1496
+2024-12-01 22:27:48,489 - INFO - Epoch 15/50, Average Loss: 12.8930
+2024-12-01 22:27:50,611 - INFO - Epoch 15/50, Train Loss: 12.8930, Val Loss: 12.8136
+2024-12-01 22:27:51,124 - INFO - New best model saved with validation loss: 12.8136
+2024-12-01 22:28:00,114 - INFO - Epoch 16/50, Average Loss: 13.1566
+2024-12-01 22:28:01,827 - INFO - Epoch 16/50, Train Loss: 13.1566, Val Loss: 13.7652
+2024-12-01 22:28:11,384 - INFO - Epoch 17/50, Average Loss: 14.4871
+2024-12-01 22:28:13,085 - INFO - Epoch 17/50, Train Loss: 14.4871, Val Loss: 13.9144
+2024-12-01 22:28:21,979 - INFO - Epoch 18/50, Average Loss: 13.8751
+2024-12-01 22:28:23,652 - INFO - Epoch 18/50, Train Loss: 13.8751, Val Loss: 13.3191
+2024-12-01 22:28:32,544 - INFO - Epoch 19/50, Average Loss: 13.5746
+2024-12-01 22:28:34,234 - INFO - Epoch 19/50, Train Loss: 13.5746, Val Loss: 13.7956
+2024-12-01 22:28:42,717 - INFO - Epoch 20/50, Average Loss: 12.7946
+2024-12-01 22:28:44,437 - INFO - Epoch 20/50, Train Loss: 12.7946, Val Loss: 12.8217
+2024-12-01 22:28:52,916 - INFO - Epoch 21/50, Average Loss: 13.4916
+2024-12-01 22:28:54,743 - INFO - Epoch 21/50, Train Loss: 13.4916, Val Loss: 13.6851
+2024-12-01 22:29:04,119 - INFO - Epoch 22/50, Average Loss: 13.2907
+2024-12-01 22:29:05,818 - INFO - Epoch 22/50, Train Loss: 13.2907, Val Loss: 12.6706
+2024-12-01 22:29:06,286 - INFO - New best model saved with validation loss: 12.6706
+2024-12-01 22:29:15,177 - INFO - Epoch 23/50, Average Loss: 12.7822
+2024-12-01 22:29:17,018 - INFO - Epoch 23/50, Train Loss: 12.7822, Val Loss: 12.7269
+2024-12-01 22:29:27,362 - INFO - Epoch 24/50, Average Loss: 12.7384
+2024-12-01 22:29:29,213 - INFO - Epoch 24/50, Train Loss: 12.7384, Val Loss: 12.9219
+2024-12-01 22:29:39,753 - INFO - Epoch 25/50, Average Loss: 13.6285
+2024-12-01 22:29:41,551 - INFO - Epoch 25/50, Train Loss: 13.6285, Val Loss: 13.7969
+2024-12-01 22:29:51,896 - INFO - Epoch 26/50, Average Loss: 12.6952
+2024-12-01 22:29:53,683 - INFO - Epoch 26/50, Train Loss: 12.6952, Val Loss: 13.5349
+2024-12-01 22:30:02,132 - INFO - Epoch 27/50, Average Loss: 12.9518
+2024-12-01 22:30:03,918 - INFO - Epoch 27/50, Train Loss: 12.9518, Val Loss: 14.3887
+2024-12-01 22:30:12,498 - INFO - Epoch 28/50, Average Loss: 12.8294
+2024-12-01 22:30:14,278 - INFO - Epoch 28/50, Train Loss: 12.8294, Val Loss: 12.7670
+2024-12-01 22:30:23,157 - INFO - Epoch 29/50, Average Loss: 13.8096
+2024-12-01 22:30:24,893 - INFO - Epoch 29/50, Train Loss: 13.8096, Val Loss: 13.0457
+2024-12-01 22:30:33,641 - INFO - Epoch 30/50, Average Loss: 14.0547
+2024-12-01 22:30:35,391 - INFO - Epoch 30/50, Train Loss: 14.0547, Val Loss: 14.3624
+2024-12-01 22:30:45,923 - INFO - Epoch 31/50, Average Loss: 13.3618
+2024-12-01 22:30:47,766 - INFO - Epoch 31/50, Train Loss: 13.3618, Val Loss: 12.7977
+2024-12-01 22:30:56,458 - INFO - Epoch 32/50, Average Loss: 13.2796
+2024-12-01 22:30:58,323 - INFO - Epoch 32/50, Train Loss: 13.2796, Val Loss: 13.6379
+2024-12-01 22:31:06,862 - INFO - Epoch 33/50, Average Loss: 12.7096
+2024-12-01 22:31:08,670 - INFO - Epoch 33/50, Train Loss: 12.7096, Val Loss: 13.6373
+2024-12-01 22:31:17,560 - INFO - Epoch 34/50, Average Loss: 14.3573
+2024-12-01 22:31:19,381 - INFO - Epoch 34/50, Train Loss: 14.3573, Val Loss: 12.7227
+2024-12-01 22:31:28,407 - INFO - Epoch 35/50, Average Loss: 12.7463
+2024-12-01 22:31:30,308 - INFO - Epoch 35/50, Train Loss: 12.7463, Val Loss: 13.2550
+2024-12-01 22:31:38,990 - INFO - Epoch 36/50, Average Loss: 12.7591
+2024-12-01 22:31:40,766 - INFO - Epoch 36/50, Train Loss: 12.7591, Val Loss: 14.0814
+2024-12-01 22:31:49,887 - INFO - Epoch 37/50, Average Loss: 12.8180
+2024-12-01 22:31:51,627 - INFO - Epoch 37/50, Train Loss: 12.8180, Val Loss: 13.6334
+2024-12-01 22:32:00,505 - INFO - Epoch 38/50, Average Loss: 13.6166
+2024-12-01 22:32:02,305 - INFO - Epoch 38/50, Train Loss: 13.6166, Val Loss: 13.6231
+2024-12-01 22:32:11,187 - INFO - Epoch 39/50, Average Loss: 13.3691
+2024-12-01 22:32:13,005 - INFO - Epoch 39/50, Train Loss: 13.3691, Val Loss: 13.5044
+2024-12-01 22:32:22,445 - INFO - Epoch 40/50, Average Loss: 12.6948
+2024-12-01 22:32:24,273 - INFO - Epoch 40/50, Train Loss: 12.6948, Val Loss: 13.6442
+2024-12-01 22:32:33,327 - INFO - Epoch 41/50, Average Loss: 12.8079
+2024-12-01 22:32:35,074 - INFO - Epoch 41/50, Train Loss: 12.8079, Val Loss: 13.5851
+2024-12-01 22:32:43,906 - INFO - Epoch 42/50, Average Loss: 13.6397
+2024-12-01 22:32:45,688 - INFO - Epoch 42/50, Train Loss: 13.6397, Val Loss: 12.6980
+2024-12-01 22:32:54,958 - INFO - Epoch 43/50, Average Loss: 12.8660
+2024-12-01 22:32:56,676 - INFO - Epoch 43/50, Train Loss: 12.8660, Val Loss: 13.7543
+2024-12-01 22:33:06,121 - INFO - Epoch 44/50, Average Loss: 14.3730
+2024-12-01 22:33:07,883 - INFO - Epoch 44/50, Train Loss: 14.3730, Val Loss: 12.7630
+2024-12-01 22:33:17,530 - INFO - Epoch 45/50, Average Loss: 13.2593
+2024-12-01 22:33:19,314 - INFO - Epoch 45/50, Train Loss: 13.2593, Val Loss: 12.7846
+2024-12-01 22:33:28,831 - INFO - Epoch 46/50, Average Loss: 12.9933
+2024-12-01 22:33:30,589 - INFO - Epoch 46/50, Train Loss: 12.9933, Val Loss: 13.7535
+2024-12-01 22:33:39,891 - INFO - Epoch 47/50, Average Loss: 12.7591
+2024-12-01 22:33:41,763 - INFO - Epoch 47/50, Train Loss: 12.7591, Val Loss: 12.6947
+2024-12-01 22:33:50,788 - INFO - Epoch 48/50, Average Loss: 14.0947
+2024-12-01 22:33:52,666 - INFO - Epoch 48/50, Train Loss: 14.0947, Val Loss: 12.7832
+2024-12-01 22:34:02,527 - INFO - Epoch 49/50, Average Loss: 13.9302
+2024-12-01 22:34:04,306 - INFO - Epoch 49/50, Train Loss: 13.9302, Val Loss: 12.7599
+2024-12-01 22:34:14,222 - INFO - Epoch 50/50, Average Loss: 13.3794
+2024-12-01 22:34:16,033 - INFO - Epoch 50/50, Train Loss: 13.3794, Val Loss: 13.8574
+2024-12-01 22:36:22,946 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 22:36:23,614 - INFO - Loaded 29 training examples
+2024-12-01 22:36:39,454 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 22:36:41,074 - INFO - Loaded 29 training examples
+2024-12-01 22:36:52,489 - INFO - Epoch 1/100, Average Loss: 15.4225
+2024-12-01 22:36:53,824 - INFO - Epoch 1/100, Train Loss: 15.4225, Val Loss: 15.3175
+2024-12-01 22:36:54,438 - INFO - New best model saved with validation loss: 15.3175
+2024-12-01 22:37:03,238 - INFO - Epoch 2/100, Average Loss: 13.9124
+2024-12-01 22:37:04,704 - INFO - Epoch 2/100, Train Loss: 13.9124, Val Loss: 13.6909
+2024-12-01 22:37:05,097 - INFO - New best model saved with validation loss: 13.6909
+2024-12-01 22:39:46,411 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 22:39:47,074 - INFO - Loaded 29 training examples
+2024-12-01 22:39:58,198 - INFO - Epoch 1/100, Average Loss: 16.1292
+2024-12-01 22:39:59,518 - INFO - Epoch 1/100, Train Loss: 16.1292, Val Loss: 15.0875
+2024-12-01 22:40:00,631 - INFO - New best model saved with validation loss: 15.0875
+2024-12-01 22:40:09,872 - INFO - Epoch 2/100, Average Loss: 14.0190
+2024-12-01 22:40:11,317 - INFO - Epoch 2/100, Train Loss: 14.0190, Val Loss: 14.1271
+2024-12-01 22:40:12,158 - INFO - New best model saved with validation loss: 14.1271
+2024-12-01 22:40:19,568 - INFO - Epoch 3/100, Average Loss: 15.1111
+2024-12-01 22:40:20,898 - INFO - Epoch 3/100, Train Loss: 15.1111, Val Loss: 14.1854
+2024-12-01 22:40:30,769 - INFO - Epoch 4/100, Average Loss: 13.5384
+2024-12-01 22:40:32,145 - INFO - Epoch 4/100, Train Loss: 13.5384, Val Loss: 13.3781
+2024-12-01 22:40:33,019 - INFO - New best model saved with validation loss: 13.3781
+2024-12-01 22:40:44,474 - INFO - Epoch 5/100, Average Loss: 14.3373
+2024-12-01 22:40:46,180 - INFO - Epoch 5/100, Train Loss: 14.3373, Val Loss: 14.4064
+2024-12-01 22:40:55,676 - INFO - Epoch 6/100, Average Loss: 14.0881
+2024-12-01 22:40:57,081 - INFO - Epoch 6/100, Train Loss: 14.0881, Val Loss: 13.7021
+2024-12-01 22:41:07,626 - INFO - Epoch 7/100, Average Loss: 13.7930
+2024-12-01 22:41:09,766 - INFO - Epoch 7/100, Train Loss: 13.7930, Val Loss: 13.8837
+2024-12-01 22:41:18,983 - INFO - Epoch 8/100, Average Loss: 13.9123
+2024-12-01 22:41:20,438 - INFO - Epoch 8/100, Train Loss: 13.9123, Val Loss: 13.5772
+2024-12-01 22:41:29,935 - INFO - Epoch 9/100, Average Loss: 13.2296
+2024-12-01 22:41:31,495 - INFO - Epoch 9/100, Train Loss: 13.2296, Val Loss: 14.4307
+2024-12-01 22:41:39,601 - INFO - Epoch 10/100, Average Loss: 14.0447
+2024-12-01 22:41:41,099 - INFO - Epoch 10/100, Train Loss: 14.0447, Val Loss: 13.9027
+2024-12-01 22:41:52,414 - INFO - Epoch 11/100, Average Loss: 14.6952
+2024-12-01 22:41:54,036 - INFO - Epoch 11/100, Train Loss: 14.6952, Val Loss: 14.0074
+2024-12-01 22:42:04,862 - INFO - Epoch 12/100, Average Loss: 13.2026
+2024-12-01 22:42:06,473 - INFO - Epoch 12/100, Train Loss: 13.2026, Val Loss: 14.5598
+2024-12-01 22:42:18,524 - INFO - Epoch 13/100, Average Loss: 13.8964
+2024-12-01 22:42:20,162 - INFO - Epoch 13/100, Train Loss: 13.8964, Val Loss: 12.8682
+2024-12-01 22:42:21,158 - INFO - New best model saved with validation loss: 12.8682
+2024-12-01 22:42:32,954 - INFO - Epoch 14/100, Average Loss: 14.0192
+2024-12-01 22:42:34,743 - INFO - Epoch 14/100, Train Loss: 14.0192, Val Loss: 13.4386
+2024-12-01 22:42:46,380 - INFO - Epoch 15/100, Average Loss: 13.0434
+2024-12-01 22:42:47,890 - INFO - Epoch 15/100, Train Loss: 13.0434, Val Loss: 12.8606
+2024-12-01 22:42:48,894 - INFO - New best model saved with validation loss: 12.8606
+2024-12-01 22:42:57,018 - INFO - Epoch 16/100, Average Loss: 12.8093
+2024-12-01 22:42:58,567 - INFO - Epoch 16/100, Train Loss: 12.8093, Val Loss: 13.2807
+2024-12-01 22:43:07,794 - INFO - Epoch 17/100, Average Loss: 13.3490
+2024-12-01 22:43:09,397 - INFO - Epoch 17/100, Train Loss: 13.3490, Val Loss: 12.9517
+2024-12-01 22:43:17,892 - INFO - Epoch 18/100, Average Loss: 12.7890
+2024-12-01 22:43:19,471 - INFO - Epoch 18/100, Train Loss: 12.7890, Val Loss: 13.9631
+2024-12-01 22:43:27,916 - INFO - Epoch 19/100, Average Loss: 12.8744
+2024-12-01 22:43:29,513 - INFO - Epoch 19/100, Train Loss: 12.8744, Val Loss: 14.3555
+2024-12-01 22:43:38,194 - INFO - Epoch 20/100, Average Loss: 13.7458
+2024-12-01 22:43:39,845 - INFO - Epoch 20/100, Train Loss: 13.7458, Val Loss: 14.1496
+2024-12-01 22:43:49,049 - INFO - Epoch 21/100, Average Loss: 13.7665
+2024-12-01 22:43:50,690 - INFO - Epoch 21/100, Train Loss: 13.7665, Val Loss: 13.0917
+2024-12-01 22:43:59,383 - INFO - Epoch 22/100, Average Loss: 12.7708
+2024-12-01 22:44:01,062 - INFO - Epoch 22/100, Train Loss: 12.7708, Val Loss: 12.8027
+2024-12-01 22:44:02,110 - INFO - New best model saved with validation loss: 12.8027
+2024-12-01 22:44:11,495 - INFO - Epoch 23/100, Average Loss: 13.5228
+2024-12-01 22:44:13,145 - INFO - Epoch 23/100, Train Loss: 13.5228, Val Loss: 12.7489
+2024-12-01 22:44:14,198 - INFO - New best model saved with validation loss: 12.7489
+2024-12-01 22:44:23,150 - INFO - Epoch 24/100, Average Loss: 13.7921
+2024-12-01 22:44:24,859 - INFO - Epoch 24/100, Train Loss: 13.7921, Val Loss: 13.4049
+2024-12-01 22:44:33,610 - INFO - Epoch 25/100, Average Loss: 14.2364
+2024-12-01 22:44:35,247 - INFO - Epoch 25/100, Train Loss: 14.2364, Val Loss: 13.9034
+2024-12-01 22:44:43,722 - INFO - Epoch 26/100, Average Loss: 12.8134
+2024-12-01 22:44:45,387 - INFO - Epoch 26/100, Train Loss: 12.8134, Val Loss: 13.4839
+2024-12-01 22:44:53,949 - INFO - Epoch 27/100, Average Loss: 13.1662
+2024-12-01 22:44:55,569 - INFO - Epoch 27/100, Train Loss: 13.1662, Val Loss: 13.5779
+2024-12-01 22:45:04,270 - INFO - Epoch 28/100, Average Loss: 13.1248
+2024-12-01 22:45:05,916 - INFO - Epoch 28/100, Train Loss: 13.1248, Val Loss: 13.3505
+2024-12-01 22:45:14,913 - INFO - Epoch 29/100, Average Loss: 13.8422
+2024-12-01 22:45:16,595 - INFO - Epoch 29/100, Train Loss: 13.8422, Val Loss: 13.3495
+2024-12-01 22:45:25,586 - INFO - Epoch 30/100, Average Loss: 14.7464
+2024-12-01 22:45:27,273 - INFO - Epoch 30/100, Train Loss: 14.7464, Val Loss: 14.1318
+2024-12-01 22:45:36,319 - INFO - Epoch 31/100, Average Loss: 13.3870
+2024-12-01 22:45:38,082 - INFO - Epoch 31/100, Train Loss: 13.3870, Val Loss: 13.7739
+2024-12-01 22:45:47,264 - INFO - Epoch 32/100, Average Loss: 13.9166
+2024-12-01 22:45:48,972 - INFO - Epoch 32/100, Train Loss: 13.9166, Val Loss: 14.9476
+2024-12-01 22:45:58,409 - INFO - Epoch 33/100, Average Loss: 14.0482
+2024-12-01 22:46:00,126 - INFO - Epoch 33/100, Train Loss: 14.0482, Val Loss: 13.4079
+2024-12-01 22:46:11,758 - INFO - Epoch 34/100, Average Loss: 14.1739
+2024-12-01 23:00:36,618 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 23:00:37,726 - INFO - Loaded 29 training examples
+2024-12-01 23:03:46,165 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 23:03:47,589 - INFO - Loaded 29 training examples
+2024-12-01 23:04:01,092 - INFO - Epoch 1/50, Average Loss: 20.9767
+2024-12-01 23:04:01,859 - INFO - New best model saved with loss: 20.9767
+2024-12-01 23:04:11,019 - INFO - Epoch 2/50, Average Loss: 16.1166
+2024-12-01 23:04:11,678 - INFO - New best model saved with loss: 16.1166
+2024-12-01 23:04:22,076 - INFO - Epoch 3/50, Average Loss: 15.0101
+2024-12-01 23:04:22,633 - INFO - New best model saved with loss: 15.0101
+2024-12-01 23:04:33,667 - INFO - Epoch 4/50, Average Loss: 14.4046
+2024-12-01 23:04:34,225 - INFO - New best model saved with loss: 14.4046
+2024-12-01 23:04:44,035 - INFO - Epoch 5/50, Average Loss: 14.3215
+2024-12-01 23:04:44,625 - INFO - New best model saved with loss: 14.3215
+2024-12-01 23:04:54,722 - INFO - Epoch 6/50, Average Loss: 14.6929
+2024-12-01 23:05:04,832 - INFO - Epoch 7/50, Average Loss: 14.3163
+2024-12-01 23:05:05,421 - INFO - New best model saved with loss: 14.3163
+2024-12-01 23:05:13,384 - INFO - Epoch 8/50, Average Loss: 13.9462
+2024-12-01 23:05:13,983 - INFO - New best model saved with loss: 13.9462
+2024-12-01 23:05:22,356 - INFO - Epoch 9/50, Average Loss: 13.7480
+2024-12-01 23:05:22,967 - INFO - New best model saved with loss: 13.7480
+2024-12-01 23:05:31,349 - INFO - Epoch 10/50, Average Loss: 14.1140
+2024-12-01 23:05:39,928 - INFO - Epoch 11/50, Average Loss: 13.8574
+2024-12-01 23:05:48,688 - INFO - Epoch 12/50, Average Loss: 13.6905
+2024-12-01 23:05:49,312 - INFO - New best model saved with loss: 13.6905
+2024-12-01 23:05:57,855 - INFO - Epoch 13/50, Average Loss: 13.6457
+2024-12-01 23:05:58,472 - INFO - New best model saved with loss: 13.6457
+2024-12-01 23:06:07,062 - INFO - Epoch 14/50, Average Loss: 13.3183
+2024-12-01 23:06:07,805 - INFO - New best model saved with loss: 13.3183
+2024-12-01 23:06:16,548 - INFO - Epoch 15/50, Average Loss: 13.7188
+2024-12-01 23:06:26,617 - INFO - Epoch 16/50, Average Loss: 13.2895
+2024-12-01 23:06:27,262 - INFO - New best model saved with loss: 13.2895
+2024-12-01 23:06:36,790 - INFO - Epoch 17/50, Average Loss: 13.5320
+2024-12-01 23:06:52,039 - INFO - Epoch 18/50, Average Loss: 13.1260
+2024-12-01 23:06:52,677 - INFO - New best model saved with loss: 13.1260
+2024-12-01 23:07:04,209 - INFO - Epoch 19/50, Average Loss: 13.2580
+2024-12-01 23:07:14,767 - INFO - Epoch 20/50, Average Loss: 13.5851
+2024-12-01 23:07:24,456 - INFO - Epoch 21/50, Average Loss: 13.7670
+2024-12-01 23:07:33,889 - INFO - Epoch 22/50, Average Loss: 13.2964
+2024-12-01 23:07:43,902 - INFO - Epoch 23/50, Average Loss: 12.8690
+2024-12-01 23:07:44,660 - INFO - New best model saved with loss: 12.8690
+2024-12-01 23:07:57,022 - INFO - Epoch 24/50, Average Loss: 13.2203
+2024-12-01 23:08:07,802 - INFO - Epoch 25/50, Average Loss: 12.9267
+2024-12-01 23:08:18,292 - INFO - Epoch 26/50, Average Loss: 12.9905
+2024-12-01 23:08:28,720 - INFO - Epoch 27/50, Average Loss: 13.1531
+2024-12-01 23:08:39,031 - INFO - Epoch 28/50, Average Loss: 12.7792
+2024-12-01 23:08:39,692 - INFO - New best model saved with loss: 12.7792
+2024-12-01 23:08:50,020 - INFO - Epoch 29/50, Average Loss: 12.6287
+2024-12-01 23:08:50,663 - INFO - New best model saved with loss: 12.6287
+2024-12-01 23:09:07,601 - INFO - Epoch 30/50, Average Loss: 12.8564
+2024-12-01 23:09:16,967 - INFO - Epoch 31/50, Average Loss: 12.8492
+2024-12-01 23:09:30,094 - INFO - Epoch 32/50, Average Loss: 12.7013
+2024-12-01 23:09:47,057 - INFO - Epoch 33/50, Average Loss: 12.3727
+2024-12-01 23:09:47,707 - INFO - New best model saved with loss: 12.3727
+2024-12-01 23:10:00,751 - INFO - Epoch 34/50, Average Loss: 13.0191
+2024-12-01 23:10:13,107 - INFO - Epoch 35/50, Average Loss: 12.5437
+2024-12-01 23:10:22,491 - INFO - Epoch 36/50, Average Loss: 12.5364
+2024-12-01 23:10:31,867 - INFO - Epoch 37/50, Average Loss: 12.8107
+2024-12-01 23:10:41,059 - INFO - Epoch 38/50, Average Loss: 12.2675
+2024-12-01 23:10:41,709 - INFO - New best model saved with loss: 12.2675
+2024-12-01 23:10:50,633 - INFO - Epoch 39/50, Average Loss: 12.4206
+2024-12-01 23:11:02,170 - INFO - Epoch 40/50, Average Loss: 12.5807
+2024-12-01 23:11:16,720 - INFO - Epoch 41/50, Average Loss: 12.4277
+2024-12-01 23:14:27,039 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-01 23:14:27,870 - INFO - Loaded 29 training examples
+2024-12-01 23:14:40,051 - INFO - Epoch 1/50, Average Loss: 28.5870
+2024-12-01 23:14:40,837 - INFO - New best model saved with loss: 28.5870
+2024-12-01 23:14:52,261 - INFO - Epoch 2/50, Average Loss: 18.0026
+2024-12-01 23:14:52,816 - INFO - New best model saved with loss: 18.0026
+2024-12-01 23:15:01,879 - INFO - Epoch 3/50, Average Loss: 14.6933
+2024-12-01 23:15:02,438 - INFO - New best model saved with loss: 14.6933
+2024-12-01 23:15:11,678 - INFO - Epoch 4/50, Average Loss: 5.9005
+2024-12-01 23:15:12,268 - INFO - New best model saved with loss: 5.9005
+2024-12-01 23:15:22,143 - INFO - Epoch 5/50, Average Loss: 11.8320
+2024-12-01 23:15:33,059 - INFO - Epoch 6/50, Average Loss: 6.1919
+2024-12-01 23:15:42,557 - INFO - Epoch 7/50, Average Loss: 6.3116
+2024-12-01 23:15:51,961 - INFO - Epoch 8/50, Average Loss: 4.7699
+2024-12-01 23:15:52,562 - INFO - New best model saved with loss: 4.7699
+2024-12-01 23:16:03,935 - INFO - Epoch 9/50, Average Loss: 2.4296
+2024-12-01 23:16:04,580 - INFO - New best model saved with loss: 2.4296
+2024-12-01 23:16:15,864 - INFO - Epoch 10/50, Average Loss: 4.1336
+2024-12-01 23:16:26,619 - INFO - Epoch 11/50, Average Loss: 4.7717
+2024-12-01 23:16:37,390 - INFO - Epoch 12/50, Average Loss: 2.7877
+2024-12-01 23:16:49,082 - INFO - Epoch 13/50, Average Loss: 5.9500
+2024-12-01 23:16:59,942 - INFO - Epoch 14/50, Average Loss: 2.3950
+2024-12-01 23:17:00,606 - INFO - New best model saved with loss: 2.3950
+2024-12-01 23:17:11,366 - INFO - Epoch 15/50, Average Loss: 2.2650
+2024-12-01 23:17:12,018 - INFO - New best model saved with loss: 2.2650
+2024-12-01 23:17:22,226 - INFO - Epoch 16/50, Average Loss: 2.1767
+2024-12-01 23:17:22,873 - INFO - New best model saved with loss: 2.1767
+2024-12-01 23:17:34,564 - INFO - Epoch 17/50, Average Loss: 2.6735
+2024-12-01 23:17:45,546 - INFO - Epoch 18/50, Average Loss: 4.2121
+2024-12-01 23:17:55,961 - INFO - Epoch 19/50, Average Loss: 3.4596
+2024-12-01 23:18:07,064 - INFO - Epoch 20/50, Average Loss: 2.8494
+2024-12-01 23:18:16,304 - INFO - Epoch 21/50, Average Loss: 2.9240
+2024-12-01 23:18:25,327 - INFO - Epoch 22/50, Average Loss: 6.3716
+2024-12-01 23:18:34,778 - INFO - Epoch 23/50, Average Loss: 2.9493
+2024-12-01 23:18:44,731 - INFO - Epoch 24/50, Average Loss: 0.8901
+2024-12-01 23:18:45,397 - INFO - New best model saved with loss: 0.8901
+2024-12-01 23:18:55,047 - INFO - Epoch 25/50, Average Loss: 1.9382
+2024-12-01 23:19:05,063 - INFO - Epoch 26/50, Average Loss: 2.5531
+2024-12-01 23:19:15,148 - INFO - Epoch 27/50, Average Loss: 4.1450
+2024-12-01 23:19:25,047 - INFO - Epoch 28/50, Average Loss: 2.2238
+2024-12-01 23:19:34,871 - INFO - Epoch 29/50, Average Loss: 3.1046
+2024-12-01 23:19:45,367 - INFO - Epoch 30/50, Average Loss: 0.4003
+2024-12-01 23:19:46,037 - INFO - New best model saved with loss: 0.4003
+2024-12-01 23:19:56,068 - INFO - Epoch 31/50, Average Loss: 1.6095
+2024-12-01 23:20:06,210 - INFO - Epoch 32/50, Average Loss: 0.8099
+2024-12-01 23:20:16,264 - INFO - Epoch 33/50, Average Loss: 1.0008
+2024-12-01 23:20:26,328 - INFO - Epoch 34/50, Average Loss: 1.3107
+2024-12-01 23:20:36,635 - INFO - Epoch 35/50, Average Loss: 1.6627
+2024-12-01 23:20:47,097 - INFO - Epoch 36/50, Average Loss: 5.2209
+2024-12-01 23:20:56,945 - INFO - Epoch 37/50, Average Loss: 5.8880
+2024-12-01 23:21:07,364 - INFO - Epoch 38/50, Average Loss: 2.9461
+2024-12-01 23:21:17,582 - INFO - Epoch 39/50, Average Loss: 0.9278
+2024-12-01 23:21:27,788 - INFO - Epoch 40/50, Average Loss: 1.1105
+2024-12-01 23:21:37,992 - INFO - Epoch 41/50, Average Loss: 1.6915
+2024-12-01 23:21:49,130 - INFO - Epoch 42/50, Average Loss: 2.0827
+2024-12-01 23:22:00,781 - INFO - Epoch 43/50, Average Loss: 2.2913
+2024-12-01 23:22:10,662 - INFO - Epoch 44/50, Average Loss: 1.0659
+2024-12-01 23:22:20,340 - INFO - Epoch 45/50, Average Loss: 0.3456
+2024-12-01 23:22:21,003 - INFO - New best model saved with loss: 0.3456
+2024-12-01 23:22:30,651 - INFO - Epoch 46/50, Average Loss: 3.4175
+2024-12-01 23:22:40,345 - INFO - Epoch 47/50, Average Loss: 2.7539
+2024-12-01 23:22:50,468 - INFO - Epoch 48/50, Average Loss: 3.8651
+2024-12-01 23:23:00,774 - INFO - Epoch 49/50, Average Loss: 2.4595
+2024-12-01 23:23:10,863 - INFO - Epoch 50/50, Average Loss: 6.6174
+2024-12-03 10:20:01,627 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 10:20:11,677 - INFO - Loaded 29 training examples
+2024-12-03 10:35:54,988 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 10:36:05,189 - INFO - Loaded 12 training examples
+2024-12-03 10:36:35,045 - INFO - Epoch 1/30, Average Loss: 17.0119
+2024-12-03 10:36:36,642 - INFO - New best model saved with loss: 17.0119
+2024-12-03 10:36:43,210 - INFO - Epoch 2/30, Average Loss: 13.5821
+2024-12-03 10:36:44,434 - INFO - New best model saved with loss: 13.5821
+2024-12-03 10:36:52,754 - INFO - Epoch 3/30, Average Loss: 13.3476
+2024-12-03 10:36:53,878 - INFO - New best model saved with loss: 13.3476
+2024-12-03 10:36:59,115 - INFO - Epoch 4/30, Average Loss: 12.2046
+2024-12-03 10:37:00,313 - INFO - New best model saved with loss: 12.2046
+2024-12-03 10:37:06,286 - INFO - Epoch 5/30, Average Loss: 11.7290
+2024-12-03 10:37:07,465 - INFO - New best model saved with loss: 11.7290
+2024-12-03 10:37:12,978 - INFO - Epoch 6/30, Average Loss: 10.9745
+2024-12-03 10:37:14,149 - INFO - New best model saved with loss: 10.9745
+2024-12-03 10:37:19,821 - INFO - Epoch 7/30, Average Loss: 10.2376
+2024-12-03 10:37:20,990 - INFO - New best model saved with loss: 10.2376
+2024-12-03 10:37:26,887 - INFO - Epoch 8/30, Average Loss: 9.2998
+2024-12-03 10:37:28,000 - INFO - New best model saved with loss: 9.2998
+2024-12-03 10:37:33,930 - INFO - Epoch 9/30, Average Loss: 8.6459
+2024-12-03 10:37:35,471 - INFO - New best model saved with loss: 8.6459
+2024-12-03 10:37:44,769 - INFO - Epoch 10/30, Average Loss: 7.9171
+2024-12-03 10:37:45,955 - INFO - New best model saved with loss: 7.9171
+2024-12-03 10:37:53,083 - INFO - Epoch 11/30, Average Loss: 7.3527
+2024-12-03 10:37:54,184 - INFO - New best model saved with loss: 7.3527
+2024-12-03 10:37:59,692 - INFO - Epoch 12/30, Average Loss: 6.7834
+2024-12-03 10:38:01,101 - INFO - New best model saved with loss: 6.7834
+2024-12-03 10:38:09,786 - INFO - Epoch 13/30, Average Loss: 6.4234
+2024-12-03 10:38:11,149 - INFO - New best model saved with loss: 6.4234
+2024-12-03 10:38:20,210 - INFO - Epoch 14/30, Average Loss: 5.7230
+2024-12-03 10:38:21,382 - INFO - New best model saved with loss: 5.7230
+2024-12-03 10:38:26,706 - INFO - Epoch 15/30, Average Loss: 5.4310
+2024-12-03 10:38:27,851 - INFO - New best model saved with loss: 5.4310
+2024-12-03 10:38:34,546 - INFO - Epoch 16/30, Average Loss: 5.1445
+2024-12-03 10:38:35,773 - INFO - New best model saved with loss: 5.1445
+2024-12-03 10:38:42,547 - INFO - Epoch 17/30, Average Loss: 4.4931
+2024-12-03 10:38:43,671 - INFO - New best model saved with loss: 4.4931
+2024-12-03 10:38:49,986 - INFO - Epoch 18/30, Average Loss: 4.0379
+2024-12-03 10:38:51,195 - INFO - New best model saved with loss: 4.0379
+2024-12-03 10:38:57,384 - INFO - Epoch 19/30, Average Loss: 3.6362
+2024-12-03 10:38:58,518 - INFO - New best model saved with loss: 3.6362
+2024-12-03 10:39:06,399 - INFO - Epoch 20/30, Average Loss: 3.5390
+2024-12-03 10:39:07,599 - INFO - New best model saved with loss: 3.5390
+2024-12-03 10:39:13,432 - INFO - Epoch 21/30, Average Loss: 2.9555
+2024-12-03 10:39:14,641 - INFO - New best model saved with loss: 2.9555
+2024-12-03 10:39:21,454 - INFO - Epoch 22/30, Average Loss: 2.5464
+2024-12-03 10:39:22,675 - INFO - New best model saved with loss: 2.5464
+2024-12-03 10:39:29,261 - INFO - Epoch 23/30, Average Loss: 2.2605
+2024-12-03 10:39:31,274 - INFO - New best model saved with loss: 2.2605
+2024-12-03 10:39:38,419 - INFO - Epoch 24/30, Average Loss: 1.9588
+2024-12-03 10:39:39,580 - INFO - New best model saved with loss: 1.9588
+2024-12-03 10:39:48,367 - INFO - Epoch 25/30, Average Loss: 1.6192
+2024-12-03 10:39:49,437 - INFO - New best model saved with loss: 1.6192
+2024-12-03 10:39:55,006 - INFO - Epoch 26/30, Average Loss: 1.3894
+2024-12-03 10:39:56,145 - INFO - New best model saved with loss: 1.3894
+2024-12-03 10:40:01,071 - INFO - Epoch 27/30, Average Loss: 1.1847
+2024-12-03 10:40:02,196 - INFO - New best model saved with loss: 1.1847
+2024-12-03 10:40:07,880 - INFO - Epoch 28/30, Average Loss: 0.9856
+2024-12-03 10:40:08,973 - INFO - New best model saved with loss: 0.9856
+2024-12-03 10:40:14,502 - INFO - Epoch 29/30, Average Loss: 0.7579
+2024-12-03 10:40:16,581 - INFO - New best model saved with loss: 0.7579
+2024-12-03 10:40:41,349 - INFO - Epoch 30/30, Average Loss: 0.6115
+2024-12-03 10:40:43,895 - INFO - New best model saved with loss: 0.6115
+2024-12-03 10:46:51,914 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 10:47:02,015 - INFO - Loaded 15 training examples
+2024-12-03 10:47:36,545 - INFO - Epoch 1/30, Average Loss: 13.5248
+2024-12-03 10:47:38,239 - INFO - New best model saved with loss: 13.5248
+2024-12-03 10:47:51,535 - INFO - Epoch 2/30, Average Loss: 12.4685
+2024-12-03 10:47:52,732 - INFO - New best model saved with loss: 12.4685
+2024-12-03 10:48:02,969 - INFO - Epoch 3/30, Average Loss: 11.4123
+2024-12-03 10:48:04,151 - INFO - New best model saved with loss: 11.4123
+2024-12-03 10:48:15,082 - INFO - Epoch 4/30, Average Loss: 10.7458
+2024-12-03 10:48:16,772 - INFO - New best model saved with loss: 10.7458
+2024-12-03 10:48:28,856 - INFO - Epoch 5/30, Average Loss: 10.3922
+2024-12-03 10:48:30,117 - INFO - New best model saved with loss: 10.3922
+2024-12-03 10:48:39,209 - INFO - Epoch 6/30, Average Loss: 9.0980
+2024-12-03 10:48:40,328 - INFO - New best model saved with loss: 9.0980
+2024-12-03 10:48:50,025 - INFO - Epoch 7/30, Average Loss: 8.5903
+2024-12-03 10:48:51,141 - INFO - New best model saved with loss: 8.5903
+2024-12-03 10:48:57,545 - INFO - Epoch 8/30, Average Loss: 7.6192
+2024-12-03 10:48:58,669 - INFO - New best model saved with loss: 7.6192
+2024-12-03 10:49:05,153 - INFO - Epoch 9/30, Average Loss: 6.8407
+2024-12-03 10:49:06,308 - INFO - New best model saved with loss: 6.8407
+2024-12-03 10:49:13,177 - INFO - Epoch 10/30, Average Loss: 6.2966
+2024-12-03 10:49:14,262 - INFO - New best model saved with loss: 6.2966
+2024-12-03 10:49:22,068 - INFO - Epoch 11/30, Average Loss: 5.5444
+2024-12-03 10:49:23,175 - INFO - New best model saved with loss: 5.5444
+2024-12-03 10:49:30,132 - INFO - Epoch 12/30, Average Loss: 5.2347
+2024-12-03 10:49:31,249 - INFO - New best model saved with loss: 5.2347
+2024-12-03 10:49:37,813 - INFO - Epoch 13/30, Average Loss: 4.5525
+2024-12-03 10:49:38,955 - INFO - New best model saved with loss: 4.5525
+2024-12-03 10:49:46,314 - INFO - Epoch 14/30, Average Loss: 3.9249
+2024-12-03 10:49:47,425 - INFO - New best model saved with loss: 3.9249
+2024-12-03 10:49:54,661 - INFO - Epoch 15/30, Average Loss: 3.3986
+2024-12-03 10:49:55,752 - INFO - New best model saved with loss: 3.3986
+2024-12-03 10:50:02,595 - INFO - Epoch 16/30, Average Loss: 2.8915
+2024-12-03 10:50:03,697 - INFO - New best model saved with loss: 2.8915
+2024-12-03 10:50:16,143 - INFO - Epoch 17/30, Average Loss: 2.6364
+2024-12-03 10:50:17,436 - INFO - New best model saved with loss: 2.6364
+2024-12-03 10:50:27,316 - INFO - Epoch 18/30, Average Loss: 2.0169
+2024-12-03 10:50:28,427 - INFO - New best model saved with loss: 2.0169
+2024-12-03 10:50:37,198 - INFO - Epoch 19/30, Average Loss: 1.6578
+2024-12-03 10:50:38,273 - INFO - New best model saved with loss: 1.6578
+2024-12-03 10:50:45,498 - INFO - Epoch 20/30, Average Loss: 1.2832
+2024-12-03 10:50:46,612 - INFO - New best model saved with loss: 1.2832
+2024-12-03 10:50:53,923 - INFO - Epoch 21/30, Average Loss: 1.0951
+2024-12-03 10:50:55,080 - INFO - New best model saved with loss: 1.0951
+2024-12-03 10:51:01,596 - INFO - Epoch 22/30, Average Loss: 0.8001
+2024-12-03 10:51:02,727 - INFO - New best model saved with loss: 0.8001
+2024-12-03 10:51:09,124 - INFO - Epoch 23/30, Average Loss: 0.6113
+2024-12-03 10:51:10,330 - INFO - New best model saved with loss: 0.6113
+2024-12-03 10:51:17,976 - INFO - Epoch 24/30, Average Loss: 0.4636
+2024-12-03 10:51:19,102 - INFO - New best model saved with loss: 0.4636
+2024-12-03 10:51:26,970 - INFO - Epoch 25/30, Average Loss: 0.3204
+2024-12-03 10:51:28,078 - INFO - New best model saved with loss: 0.3204
+2024-12-03 10:51:35,132 - INFO - Epoch 26/30, Average Loss: 0.2448
+2024-12-03 10:51:36,267 - INFO - New best model saved with loss: 0.2448
+2024-12-03 10:51:43,230 - INFO - Epoch 27/30, Average Loss: 0.1703
+2024-12-03 10:51:44,382 - INFO - New best model saved with loss: 0.1703
+2024-12-03 10:51:51,948 - INFO - Epoch 28/30, Average Loss: 0.1257
+2024-12-03 10:51:53,126 - INFO - New best model saved with loss: 0.1257
+2024-12-03 10:51:59,990 - INFO - Epoch 29/30, Average Loss: 0.0891
+2024-12-03 10:52:01,116 - INFO - New best model saved with loss: 0.0891
+2024-12-03 10:52:07,616 - INFO - Epoch 30/30, Average Loss: 0.0729
+2024-12-03 10:52:08,751 - INFO - New best model saved with loss: 0.0729
+2024-12-03 10:58:59,044 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 10:59:09,141 - INFO - Loaded 18 training examples
+2024-12-03 10:59:41,929 - INFO - Epoch 1/50, Average Loss: 15.3491
+2024-12-03 10:59:43,338 - INFO - New best model saved with loss: 15.3491
+2024-12-03 10:59:51,259 - INFO - Epoch 2/50, Average Loss: 15.7577
+2024-12-03 10:59:59,451 - INFO - Epoch 3/50, Average Loss: 13.2953
+2024-12-03 11:00:00,580 - INFO - New best model saved with loss: 13.2953
+2024-12-03 11:00:09,325 - INFO - Epoch 4/50, Average Loss: 12.0240
+2024-12-03 11:00:10,506 - INFO - New best model saved with loss: 12.0240
+2024-12-03 11:00:18,348 - INFO - Epoch 5/50, Average Loss: 11.2902
+2024-12-03 11:00:19,463 - INFO - New best model saved with loss: 11.2902
+2024-12-03 11:00:28,368 - INFO - Epoch 6/50, Average Loss: 14.4608
+2024-12-03 11:00:36,364 - INFO - Epoch 7/50, Average Loss: 13.8577
+2024-12-03 11:00:43,867 - INFO - Epoch 8/50, Average Loss: 12.4160
+2024-12-03 11:00:51,418 - INFO - Epoch 9/50, Average Loss: 13.5908
+2024-12-03 11:00:59,163 - INFO - Epoch 10/50, Average Loss: 13.0283
+2024-12-03 11:01:06,729 - INFO - Epoch 11/50, Average Loss: 12.5322
+2024-12-03 11:01:14,763 - INFO - Epoch 12/50, Average Loss: 13.2209
+2024-12-03 11:01:15,202 - INFO - Early stopping triggered after 12 epochs
+2024-12-03 11:02:30,828 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 11:02:40,929 - INFO - Loaded 18 training examples
+2024-12-03 11:03:09,212 - INFO - Epoch 1/30, Average Loss: 10.0324
+2024-12-03 11:03:10,631 - INFO - New best model saved with loss: 10.0324
+2024-12-03 11:03:16,482 - INFO - Epoch 2/30, Average Loss: 9.8045
+2024-12-03 11:03:17,531 - INFO - New best model saved with loss: 9.8045
+2024-12-03 11:03:23,062 - INFO - Epoch 3/30, Average Loss: 9.6550
+2024-12-03 11:03:24,135 - INFO - New best model saved with loss: 9.6550
+2024-12-03 11:03:30,476 - INFO - Epoch 4/30, Average Loss: 9.2802
+2024-12-03 11:03:31,547 - INFO - New best model saved with loss: 9.2802
+2024-12-03 11:03:37,426 - INFO - Epoch 5/30, Average Loss: 8.9752
+2024-12-03 11:03:38,473 - INFO - New best model saved with loss: 8.9752
+2024-12-03 11:03:44,124 - INFO - Epoch 6/30, Average Loss: 8.9573
+2024-12-03 11:03:45,287 - INFO - New best model saved with loss: 8.9573
+2024-12-03 11:03:50,857 - INFO - Epoch 7/30, Average Loss: 8.4515
+2024-12-03 11:03:51,913 - INFO - New best model saved with loss: 8.4515
+2024-12-03 11:03:57,599 - INFO - Epoch 8/30, Average Loss: 8.7268
+2024-12-03 11:04:03,568 - INFO - Epoch 9/30, Average Loss: 8.2915
+2024-12-03 11:04:04,624 - INFO - New best model saved with loss: 8.2915
+2024-12-03 11:04:10,362 - INFO - Epoch 10/30, Average Loss: 8.1260
+2024-12-03 11:04:11,421 - INFO - New best model saved with loss: 8.1260
+2024-12-03 11:04:17,026 - INFO - Epoch 11/30, Average Loss: 7.9848
+2024-12-03 11:04:18,082 - INFO - New best model saved with loss: 7.9848
+2024-12-03 11:04:24,943 - INFO - Epoch 12/30, Average Loss: 7.9027
+2024-12-03 11:04:26,001 - INFO - New best model saved with loss: 7.9027
+2024-12-03 11:04:31,792 - INFO - Epoch 13/30, Average Loss: 7.6940
+2024-12-03 11:04:32,850 - INFO - New best model saved with loss: 7.6940
+2024-12-03 11:04:38,502 - INFO - Epoch 14/30, Average Loss: 7.5513
+2024-12-03 11:04:39,554 - INFO - New best model saved with loss: 7.5513
+2024-12-03 11:04:45,133 - INFO - Epoch 15/30, Average Loss: 7.3253
+2024-12-03 11:04:46,199 - INFO - New best model saved with loss: 7.3253
+2024-12-03 11:04:52,223 - INFO - Epoch 16/30, Average Loss: 7.4068
+2024-12-03 11:04:58,751 - INFO - Epoch 17/30, Average Loss: 7.3083
+2024-12-03 11:04:59,793 - INFO - New best model saved with loss: 7.3083
+2024-12-03 11:05:05,814 - INFO - Epoch 18/30, Average Loss: 7.0344
+2024-12-03 11:05:06,954 - INFO - New best model saved with loss: 7.0344
+2024-12-03 11:05:12,959 - INFO - Epoch 19/30, Average Loss: 6.9575
+2024-12-03 11:05:14,022 - INFO - New best model saved with loss: 6.9575
+2024-12-03 11:05:20,288 - INFO - Epoch 20/30, Average Loss: 6.6858
+2024-12-03 11:05:21,371 - INFO - New best model saved with loss: 6.6858
+2024-12-03 11:05:26,880 - INFO - Epoch 21/30, Average Loss: 6.5430
+2024-12-03 11:05:27,966 - INFO - New best model saved with loss: 6.5430
+2024-12-03 11:05:34,017 - INFO - Epoch 22/30, Average Loss: 6.6129
+2024-12-03 11:05:40,429 - INFO - Epoch 23/30, Average Loss: 6.2687
+2024-12-03 11:05:41,554 - INFO - New best model saved with loss: 6.2687
+2024-12-03 11:05:47,542 - INFO - Epoch 24/30, Average Loss: 6.1339
+2024-12-03 11:05:48,640 - INFO - New best model saved with loss: 6.1339
+2024-12-03 11:05:54,394 - INFO - Epoch 25/30, Average Loss: 6.0042
+2024-12-03 11:05:55,446 - INFO - New best model saved with loss: 6.0042
+2024-12-03 11:06:01,004 - INFO - Epoch 26/30, Average Loss: 6.0249
+2024-12-03 11:06:07,028 - INFO - Epoch 27/30, Average Loss: 5.7176
+2024-12-03 11:06:08,099 - INFO - New best model saved with loss: 5.7176
+2024-12-03 11:06:13,680 - INFO - Epoch 28/30, Average Loss: 5.5403
+2024-12-03 11:06:14,747 - INFO - New best model saved with loss: 5.5403
+2024-12-03 11:06:20,724 - INFO - Epoch 29/30, Average Loss: 5.5303
+2024-12-03 11:06:21,796 - INFO - New best model saved with loss: 5.5303
+2024-12-03 11:06:28,589 - INFO - Epoch 30/30, Average Loss: 5.4163
+2024-12-03 11:06:29,604 - INFO - New best model saved with loss: 5.4163
+2024-12-03 11:07:47,633 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 11:07:57,723 - INFO - Loaded 18 training examples
+2024-12-03 11:08:29,476 - INFO - Epoch 1/50, Average Loss: 6.2566
+2024-12-03 11:08:30,886 - INFO - New best model saved with loss: 6.2566
+2024-12-03 11:08:40,210 - INFO - Epoch 2/50, Average Loss: 5.7541
+2024-12-03 11:08:41,334 - INFO - New best model saved with loss: 5.7541
+2024-12-03 11:08:50,608 - INFO - Epoch 3/50, Average Loss: 5.2683
+2024-12-03 11:08:51,651 - INFO - New best model saved with loss: 5.2683
+2024-12-03 11:09:00,756 - INFO - Epoch 4/50, Average Loss: 5.0436
+2024-12-03 11:09:01,800 - INFO - New best model saved with loss: 5.0436
+2024-12-03 11:09:11,648 - INFO - Epoch 5/50, Average Loss: 4.6059
+2024-12-03 11:09:12,875 - INFO - New best model saved with loss: 4.6059
+2024-12-03 11:09:22,807 - INFO - Epoch 6/50, Average Loss: 4.2555
+2024-12-03 11:09:23,903 - INFO - New best model saved with loss: 4.2555
+2024-12-03 11:09:33,410 - INFO - Epoch 7/50, Average Loss: 3.8207
+2024-12-03 11:09:34,487 - INFO - New best model saved with loss: 3.8207
+2024-12-03 11:09:43,644 - INFO - Epoch 8/50, Average Loss: 3.3756
+2024-12-03 11:09:44,691 - INFO - New best model saved with loss: 3.3756
+2024-12-03 11:09:55,971 - INFO - Epoch 9/50, Average Loss: 2.9582
+2024-12-03 11:09:58,045 - INFO - New best model saved with loss: 2.9582
+2024-12-03 11:10:12,842 - INFO - Epoch 10/50, Average Loss: 2.6075
+2024-12-03 11:10:14,057 - INFO - New best model saved with loss: 2.6075
+2024-12-03 11:10:25,100 - INFO - Epoch 11/50, Average Loss: 2.2873
+2024-12-03 11:10:26,151 - INFO - New best model saved with loss: 2.2873
+2024-12-03 11:10:36,105 - INFO - Epoch 12/50, Average Loss: 1.9173
+2024-12-03 11:10:37,189 - INFO - New best model saved with loss: 1.9173
+2024-12-03 11:10:47,412 - INFO - Epoch 13/50, Average Loss: 1.6754
+2024-12-03 11:10:48,479 - INFO - New best model saved with loss: 1.6754
+2024-12-03 11:10:57,868 - INFO - Epoch 14/50, Average Loss: 1.4760
+2024-12-03 11:10:58,936 - INFO - New best model saved with loss: 1.4760
+2024-12-03 11:11:09,877 - INFO - Epoch 15/50, Average Loss: 1.2177
+2024-12-03 11:11:10,996 - INFO - New best model saved with loss: 1.2177
+2024-12-03 11:11:23,316 - INFO - Epoch 16/50, Average Loss: 1.0718
+2024-12-03 11:11:24,451 - INFO - New best model saved with loss: 1.0718
+2024-12-03 11:11:34,116 - INFO - Epoch 17/50, Average Loss: 0.9063
+2024-12-03 11:11:35,205 - INFO - New best model saved with loss: 0.9063
+2024-12-03 11:11:48,337 - INFO - Epoch 18/50, Average Loss: 0.7865
+2024-12-03 11:11:49,383 - INFO - New best model saved with loss: 0.7865
+2024-12-03 11:12:01,452 - INFO - Epoch 19/50, Average Loss: 0.7016
+2024-12-03 11:12:02,515 - INFO - New best model saved with loss: 0.7016
+2024-12-03 11:12:12,591 - INFO - Epoch 20/50, Average Loss: 0.5765
+2024-12-03 11:12:13,674 - INFO - New best model saved with loss: 0.5765
+2024-12-03 11:12:24,014 - INFO - Epoch 21/50, Average Loss: 0.5175
+2024-12-03 11:12:25,149 - INFO - New best model saved with loss: 0.5175
+2024-12-03 11:12:36,112 - INFO - Epoch 22/50, Average Loss: 0.4602
+2024-12-03 11:12:37,146 - INFO - New best model saved with loss: 0.4602
+2024-12-03 11:12:48,048 - INFO - Epoch 23/50, Average Loss: 0.4299
+2024-12-03 11:12:49,129 - INFO - New best model saved with loss: 0.4299
+2024-12-03 11:12:59,135 - INFO - Epoch 24/50, Average Loss: 0.3842
+2024-12-03 11:13:00,222 - INFO - New best model saved with loss: 0.3842
+2024-12-03 11:13:10,186 - INFO - Epoch 25/50, Average Loss: 0.3421
+2024-12-03 11:13:11,276 - INFO - New best model saved with loss: 0.3421
+2024-12-03 11:13:21,410 - INFO - Epoch 26/50, Average Loss: 0.3149
+2024-12-03 11:13:22,473 - INFO - New best model saved with loss: 0.3149
+2024-12-03 11:13:34,594 - INFO - Epoch 27/50, Average Loss: 0.2943
+2024-12-03 11:13:35,714 - INFO - New best model saved with loss: 0.2943
+2024-12-03 11:13:46,010 - INFO - Epoch 28/50, Average Loss: 0.2657
+2024-12-03 11:13:47,094 - INFO - New best model saved with loss: 0.2657
+2024-12-03 11:13:57,261 - INFO - Epoch 29/50, Average Loss: 0.2466
+2024-12-03 11:13:58,416 - INFO - New best model saved with loss: 0.2466
+2024-12-03 11:14:08,084 - INFO - Epoch 30/50, Average Loss: 0.2389
+2024-12-03 11:14:09,158 - INFO - New best model saved with loss: 0.2389
+2024-12-03 11:14:19,088 - INFO - Epoch 31/50, Average Loss: 0.2146
+2024-12-03 11:14:20,157 - INFO - New best model saved with loss: 0.2146
+2024-12-03 11:14:29,775 - INFO - Epoch 32/50, Average Loss: 0.2086
+2024-12-03 11:14:30,943 - INFO - New best model saved with loss: 0.2086
+2024-12-03 11:14:40,502 - INFO - Epoch 33/50, Average Loss: 0.1946
+2024-12-03 11:14:41,577 - INFO - New best model saved with loss: 0.1946
+2024-12-03 11:14:51,616 - INFO - Epoch 34/50, Average Loss: 0.1850
+2024-12-03 11:14:52,683 - INFO - New best model saved with loss: 0.1850
+2024-12-03 11:15:03,180 - INFO - Epoch 35/50, Average Loss: 0.1681
+2024-12-03 11:15:04,293 - INFO - New best model saved with loss: 0.1681
+2024-12-03 11:15:15,159 - INFO - Epoch 36/50, Average Loss: 0.1629
+2024-12-03 11:15:16,294 - INFO - New best model saved with loss: 0.1629
+2024-12-03 11:15:26,021 - INFO - Epoch 37/50, Average Loss: 0.1509
+2024-12-03 11:15:27,092 - INFO - New best model saved with loss: 0.1509
+2024-12-03 11:15:36,912 - INFO - Epoch 38/50, Average Loss: 0.1414
+2024-12-03 11:15:37,968 - INFO - New best model saved with loss: 0.1414
+2024-12-03 11:15:48,438 - INFO - Epoch 39/50, Average Loss: 0.1422
+2024-12-03 11:15:58,630 - INFO - Epoch 40/50, Average Loss: 0.1352
+2024-12-03 11:15:59,738 - INFO - New best model saved with loss: 0.1352
+2024-12-03 11:16:09,370 - INFO - Epoch 41/50, Average Loss: 0.1244
+2024-12-03 11:16:10,444 - INFO - New best model saved with loss: 0.1244
+2024-12-03 11:16:20,308 - INFO - Epoch 42/50, Average Loss: 0.1237
+2024-12-03 11:16:21,382 - INFO - New best model saved with loss: 0.1237
+2024-12-03 11:16:31,493 - INFO - Epoch 43/50, Average Loss: 0.1178
+2024-12-03 11:16:32,601 - INFO - New best model saved with loss: 0.1178
+2024-12-03 11:16:42,590 - INFO - Epoch 44/50, Average Loss: 0.1130
+2024-12-03 11:16:43,686 - INFO - New best model saved with loss: 0.1130
+2024-12-03 11:16:53,672 - INFO - Epoch 45/50, Average Loss: 0.1126
+2024-12-03 11:16:54,724 - INFO - New best model saved with loss: 0.1126
+2024-12-03 11:17:10,923 - INFO - Epoch 46/50, Average Loss: 0.1067
+2024-12-03 11:17:12,005 - INFO - New best model saved with loss: 0.1067
+2024-12-03 11:17:35,449 - INFO - Epoch 47/50, Average Loss: 0.0988
+2024-12-03 11:17:36,538 - INFO - New best model saved with loss: 0.0988
+2024-12-03 11:17:50,539 - INFO - Epoch 48/50, Average Loss: 0.0978
+2024-12-03 11:17:51,712 - INFO - New best model saved with loss: 0.0978
+2024-12-03 11:18:02,336 - INFO - Epoch 49/50, Average Loss: 0.1010
+2024-12-03 11:18:14,289 - INFO - Epoch 50/50, Average Loss: 0.0877
+2024-12-03 11:18:15,513 - INFO - New best model saved with loss: 0.0877
+2024-12-03 11:35:42,526 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 11:36:29,612 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 11:37:15,417 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 11:37:25,527 - INFO - 原始样本数: 18, 增强后样本数: 67
+2024-12-03 11:38:29,978 - INFO - Epoch 1/50, Average Loss: 6.0706
+2024-12-03 11:38:38,175 - INFO - New best model saved with loss: 6.0706
+2024-12-03 11:39:19,463 - INFO - Epoch 2/50, Average Loss: 4.7525
+2024-12-03 11:39:26,609 - INFO - New best model saved with loss: 4.7525
+2024-12-03 11:40:05,424 - INFO - Epoch 3/50, Average Loss: 3.5895
+2024-12-03 11:40:12,867 - INFO - New best model saved with loss: 3.5895
+2024-12-03 11:40:56,706 - INFO - Epoch 4/50, Average Loss: 2.4018
+2024-12-03 11:41:03,679 - INFO - New best model saved with loss: 2.4018
+2024-12-03 11:41:39,725 - INFO - Epoch 5/50, Average Loss: 1.6068
+2024-12-03 11:41:47,070 - INFO - New best model saved with loss: 1.6068
+2024-12-03 11:42:28,912 - INFO - Epoch 6/50, Average Loss: 1.0443
+2024-12-03 11:42:36,539 - INFO - New best model saved with loss: 1.0443
+2024-12-03 11:43:24,376 - INFO - Epoch 7/50, Average Loss: 0.6683
+2024-12-03 11:43:31,992 - INFO - New best model saved with loss: 0.6683
+2024-12-03 19:19:44,401 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-03 19:19:54,493 - INFO - 原始样本数: 18, 增强后样本数: 67
+2024-12-03 19:20:40,766 - INFO - Epoch 1/50, Average Loss: 6.1850
+2024-12-03 19:20:44,834 - INFO - New best model saved with loss: 6.1850
+2024-12-03 19:21:21,241 - INFO - Epoch 2/50, Average Loss: 4.9342
+2024-12-03 19:21:26,332 - INFO - New best model saved with loss: 4.9342
+2024-12-03 19:21:56,961 - INFO - Epoch 3/50, Average Loss: 3.8484
+2024-12-03 19:22:01,481 - INFO - New best model saved with loss: 3.8484
+2024-12-03 19:22:26,956 - INFO - Epoch 4/50, Average Loss: 2.7612
+2024-12-03 19:22:30,949 - INFO - New best model saved with loss: 2.7612
+2024-12-03 19:22:51,919 - INFO - Epoch 5/50, Average Loss: 1.9071
+2024-12-03 19:22:55,940 - INFO - New best model saved with loss: 1.9071
+2024-12-03 19:23:17,304 - INFO - Epoch 6/50, Average Loss: 1.3155
+2024-12-03 19:23:21,500 - INFO - New best model saved with loss: 1.3155
+2024-12-03 19:23:43,974 - INFO - Epoch 7/50, Average Loss: 0.9376
+2024-12-03 19:23:48,119 - INFO - New best model saved with loss: 0.9376
+2024-12-03 19:24:11,547 - INFO - Epoch 8/50, Average Loss: 0.7673
+2024-12-03 19:24:15,798 - INFO - New best model saved with loss: 0.7673
+2024-12-03 19:24:38,648 - INFO - Epoch 9/50, Average Loss: 0.6055
+2024-12-03 19:24:42,878 - INFO - New best model saved with loss: 0.6055
+2024-12-03 19:25:06,298 - INFO - Epoch 10/50, Average Loss: 0.5712
+2024-12-03 19:25:10,634 - INFO - New best model saved with loss: 0.5712
+2024-12-03 19:25:34,551 - INFO - Epoch 11/50, Average Loss: 0.5065
+2024-12-03 19:25:38,837 - INFO - New best model saved with loss: 0.5065
+2024-12-03 19:26:03,529 - INFO - Epoch 12/50, Average Loss: 0.4273
+2024-12-03 19:26:07,901 - INFO - New best model saved with loss: 0.4273
+2024-12-03 19:26:30,553 - INFO - Epoch 13/50, Average Loss: 0.3622
+2024-12-03 19:26:34,958 - INFO - New best model saved with loss: 0.3622
+2024-12-03 19:26:56,969 - INFO - Epoch 14/50, Average Loss: 0.3064
+2024-12-03 19:27:01,655 - INFO - New best model saved with loss: 0.3064
+2024-12-03 19:27:25,136 - INFO - Epoch 15/50, Average Loss: 0.2597
+2024-12-03 19:27:29,403 - INFO - New best model saved with loss: 0.2597
+2024-12-03 19:27:52,984 - INFO - Epoch 16/50, Average Loss: 0.2398
+2024-12-03 19:27:57,341 - INFO - New best model saved with loss: 0.2398
+2024-12-03 19:28:22,145 - INFO - Epoch 17/50, Average Loss: 0.1767
+2024-12-03 19:28:26,784 - INFO - New best model saved with loss: 0.1767
+2024-12-03 19:28:52,897 - INFO - Epoch 18/50, Average Loss: 0.1549
+2024-12-03 19:28:57,299 - INFO - New best model saved with loss: 0.1549
+2024-12-03 19:29:19,682 - INFO - Epoch 19/50, Average Loss: 0.1383
+2024-12-03 19:29:24,249 - INFO - New best model saved with loss: 0.1383
+2024-12-03 19:29:45,398 - INFO - Epoch 20/50, Average Loss: 0.1102
+2024-12-03 19:29:49,896 - INFO - New best model saved with loss: 0.1102
+2024-12-03 19:30:11,042 - INFO - Epoch 21/50, Average Loss: 0.1035
+2024-12-03 19:30:15,508 - INFO - New best model saved with loss: 0.1035
+2024-12-03 19:30:36,649 - INFO - Epoch 22/50, Average Loss: 0.0966
+2024-12-03 19:30:41,180 - INFO - New best model saved with loss: 0.0966
+2024-12-03 19:31:08,858 - INFO - Epoch 23/50, Average Loss: 0.1025
+2024-12-03 19:31:40,382 - INFO - Epoch 24/50, Average Loss: 0.0750
+2024-12-03 19:31:45,283 - INFO - New best model saved with loss: 0.0750
+2024-12-03 19:32:12,835 - INFO - Epoch 25/50, Average Loss: 0.0677
+2024-12-03 19:32:17,288 - INFO - New best model saved with loss: 0.0677
+2024-12-03 19:32:41,382 - INFO - Epoch 26/50, Average Loss: 0.0611
+2024-12-03 19:32:45,982 - INFO - New best model saved with loss: 0.0611
+2024-12-03 19:33:10,563 - INFO - Epoch 27/50, Average Loss: 0.0579
+2024-12-03 19:33:15,134 - INFO - New best model saved with loss: 0.0579
+2024-12-03 19:33:38,732 - INFO - Epoch 28/50, Average Loss: 0.0538
+2024-12-03 19:33:43,368 - INFO - New best model saved with loss: 0.0538
+2024-12-03 19:34:07,313 - INFO - Epoch 29/50, Average Loss: 0.0500
+2024-12-03 19:34:11,933 - INFO - New best model saved with loss: 0.0500
+2024-12-03 19:34:35,862 - INFO - Epoch 30/50, Average Loss: 0.0470
+2024-12-03 19:34:40,466 - INFO - New best model saved with loss: 0.0470
+2024-12-03 19:35:05,391 - INFO - Epoch 31/50, Average Loss: 0.0444
+2024-12-03 19:35:10,111 - INFO - New best model saved with loss: 0.0444
+2024-12-03 19:35:33,678 - INFO - Epoch 32/50, Average Loss: 0.0410
+2024-12-03 19:35:38,313 - INFO - New best model saved with loss: 0.0410
+2024-12-03 19:36:03,181 - INFO - Epoch 33/50, Average Loss: 0.0391
+2024-12-03 19:36:07,793 - INFO - New best model saved with loss: 0.0391
+2024-12-03 19:36:32,119 - INFO - Epoch 34/50, Average Loss: 0.0377
+2024-12-03 19:36:36,851 - INFO - New best model saved with loss: 0.0377
+2024-12-03 19:37:01,635 - INFO - Epoch 35/50, Average Loss: 0.0358
+2024-12-03 19:37:06,388 - INFO - New best model saved with loss: 0.0358
+2024-12-03 19:37:29,617 - INFO - Epoch 36/50, Average Loss: 0.0341
+2024-12-03 19:37:34,420 - INFO - New best model saved with loss: 0.0341
+2024-12-03 19:37:58,888 - INFO - Epoch 37/50, Average Loss: 0.0318
+2024-12-03 19:38:03,621 - INFO - New best model saved with loss: 0.0318
+2024-12-03 19:38:27,348 - INFO - Epoch 38/50, Average Loss: 0.0293
+2024-12-03 19:38:31,941 - INFO - New best model saved with loss: 0.0293
+2024-12-03 19:38:55,476 - INFO - Epoch 39/50, Average Loss: 0.0285
+2024-12-03 19:39:00,050 - INFO - New best model saved with loss: 0.0285
+2024-12-03 19:39:23,354 - INFO - Epoch 40/50, Average Loss: 0.0279
+2024-12-03 19:39:28,155 - INFO - New best model saved with loss: 0.0279
+2024-12-03 19:39:52,782 - INFO - Epoch 41/50, Average Loss: 0.0267
+2024-12-03 19:39:57,541 - INFO - New best model saved with loss: 0.0267
+2024-12-03 19:40:27,016 - INFO - Epoch 42/50, Average Loss: 0.0263
+2024-12-03 19:40:31,764 - INFO - New best model saved with loss: 0.0263
+2024-12-03 19:40:53,642 - INFO - Epoch 43/50, Average Loss: 0.0245
+2024-12-03 19:40:58,229 - INFO - New best model saved with loss: 0.0245
+2024-12-03 19:41:19,805 - INFO - Epoch 44/50, Average Loss: 0.0234
+2024-12-03 19:41:24,481 - INFO - New best model saved with loss: 0.0234
+2024-12-03 19:41:45,843 - INFO - Epoch 45/50, Average Loss: 0.0231
+2024-12-03 19:41:50,433 - INFO - New best model saved with loss: 0.0231
+2024-12-03 19:42:12,031 - INFO - Epoch 46/50, Average Loss: 0.0223
+2024-12-03 19:42:16,707 - INFO - New best model saved with loss: 0.0223
+2024-12-03 19:42:38,449 - INFO - Epoch 47/50, Average Loss: 0.0212
+2024-12-03 19:42:43,092 - INFO - New best model saved with loss: 0.0212
+2024-12-03 19:43:04,706 - INFO - Epoch 48/50, Average Loss: 0.0204
+2024-12-03 19:43:09,346 - INFO - New best model saved with loss: 0.0204
+2024-12-03 19:43:31,006 - INFO - Epoch 49/50, Average Loss: 0.0200
+2024-12-03 19:43:35,817 - INFO - New best model saved with loss: 0.0200
+2024-12-03 19:43:57,646 - INFO - Epoch 50/50, Average Loss: 0.0188
+2024-12-03 19:44:02,358 - INFO - New best model saved with loss: 0.0188
+2024-12-05 10:34:18,633 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-05 10:35:57,914 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-05 10:35:59,213 - INFO - 原始样本数: 29, 增强后样本数: 57
+2024-12-05 10:38:03,075 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-05 10:38:04,351 - INFO - 原始样本数: 29, 增强后样本数: 57
+2024-12-05 10:39:09,210 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-05 10:58:01,012 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-05 10:58:11,111 - INFO - 原始样本数: 26, 增强后样本数: 78
+2024-12-05 10:59:27,105 - INFO - Epoch 1/50, Average Loss: 6.9992
+2024-12-05 10:59:37,613 - INFO - New best model saved with loss: 6.9992
+2024-12-05 11:00:30,979 - INFO - Epoch 2/50, Average Loss: 5.1203
+2024-12-05 11:00:40,176 - INFO - New best model saved with loss: 5.1203
+2024-12-05 11:01:34,871 - INFO - Epoch 3/50, Average Loss: 3.3647
+2024-12-05 11:01:44,050 - INFO - New best model saved with loss: 3.3647
+2024-12-05 11:02:45,592 - INFO - Epoch 4/50, Average Loss: 1.9949
+2024-12-05 11:02:55,225 - INFO - New best model saved with loss: 1.9949
+2024-12-05 11:03:49,247 - INFO - Epoch 5/50, Average Loss: 1.1416
+2024-12-05 11:03:58,747 - INFO - New best model saved with loss: 1.1416
+2024-12-05 11:04:52,611 - INFO - Epoch 6/50, Average Loss: 0.6383
+2024-12-05 11:05:01,894 - INFO - New best model saved with loss: 0.6383
+2024-12-05 11:06:05,031 - INFO - Epoch 7/50, Average Loss: 0.4131
+2024-12-05 11:06:15,746 - INFO - New best model saved with loss: 0.4131
+2024-12-05 11:07:13,335 - INFO - Epoch 8/50, Average Loss: 0.2860
+2024-12-05 11:07:22,860 - INFO - New best model saved with loss: 0.2860
+2024-12-05 12:45:49,739 - INFO - Project root directory: /Users/pyr/PycharmProjects/nertest
+2024-12-05 12:45:59,801 - INFO - 原始样本数: 26, 增强后样本数: 78
+2024-12-05 12:47:09,759 - INFO - Epoch 1/50, Average Loss: 7.5627
+2024-12-05 12:47:18,387 - INFO - New best model saved with loss: 7.5627
+2024-12-05 12:48:01,568 - INFO - Epoch 2/50, Average Loss: 5.6247
+2024-12-05 12:48:15,172 - INFO - New best model saved with loss: 5.6247
+2024-12-05 12:48:58,294 - INFO - Epoch 3/50, Average Loss: 3.9432
+2024-12-05 12:49:06,254 - INFO - New best model saved with loss: 3.9432
+2024-12-05 12:49:47,114 - INFO - Epoch 4/50, Average Loss: 2.3754
+2024-12-05 12:49:55,609 - INFO - New best model saved with loss: 2.3754
+2024-12-05 12:50:37,369 - INFO - Epoch 5/50, Average Loss: 1.4260
+2024-12-05 12:50:45,777 - INFO - New best model saved with loss: 1.4260
+2024-12-05 12:51:28,153 - INFO - Epoch 6/50, Average Loss: 0.8695
+2024-12-05 12:51:36,201 - INFO - New best model saved with loss: 0.8695
+2024-12-05 12:52:17,949 - INFO - Epoch 7/50, Average Loss: 0.5310
+2024-12-05 12:52:25,997 - INFO - New best model saved with loss: 0.5310
+2024-12-05 12:53:20,329 - INFO - Epoch 8/50, Average Loss: 0.4070
+2024-12-05 12:53:29,537 - INFO - New best model saved with loss: 0.4070
+2024-12-05 12:54:10,814 - INFO - Epoch 9/50, Average Loss: 0.2684
+2024-12-05 12:54:18,377 - INFO - New best model saved with loss: 0.2684
+2024-12-05 12:55:02,772 - INFO - Epoch 10/50, Average Loss: 0.1995
+2024-12-05 12:55:10,553 - INFO - New best model saved with loss: 0.1995
+2024-12-05 12:55:56,864 - INFO - Epoch 11/50, Average Loss: 0.1689
+2024-12-05 12:56:04,721 - INFO - New best model saved with loss: 0.1689
+2024-12-05 12:56:47,565 - INFO - Epoch 12/50, Average Loss: 0.1327
+2024-12-05 12:56:55,303 - INFO - New best model saved with loss: 0.1327
+2024-12-05 12:57:39,799 - INFO - Epoch 13/50, Average Loss: 0.1187
+2024-12-05 12:57:49,937 - INFO - New best model saved with loss: 0.1187
+2024-12-05 12:58:30,083 - INFO - Epoch 14/50, Average Loss: 0.0954
+2024-12-05 12:58:37,913 - INFO - New best model saved with loss: 0.0954
+2024-12-05 12:59:20,444 - INFO - Epoch 15/50, Average Loss: 0.0845
+2024-12-05 12:59:32,297 - INFO - New best model saved with loss: 0.0845
+2024-12-05 13:00:20,885 - INFO - Epoch 16/50, Average Loss: 0.0768
+2024-12-05 13:00:30,527 - INFO - New best model saved with loss: 0.0768
+2024-12-05 13:01:23,584 - INFO - Epoch 17/50, Average Loss: 0.0692
+2024-12-05 13:01:32,300 - INFO - New best model saved with loss: 0.0692
+2024-12-05 13:02:11,990 - INFO - Epoch 18/50, Average Loss: 0.0627
+2024-12-05 13:02:19,487 - INFO - New best model saved with loss: 0.0627
+2024-12-05 13:02:57,168 - INFO - Epoch 19/50, Average Loss: 0.0580
+2024-12-05 13:03:05,781 - INFO - New best model saved with loss: 0.0580
+2024-12-05 13:03:47,519 - INFO - Epoch 20/50, Average Loss: 0.0541
+2024-12-05 13:03:55,559 - INFO - New best model saved with loss: 0.0541
+2024-12-05 13:04:37,384 - INFO - Epoch 21/50, Average Loss: 0.0494
+2024-12-05 13:04:47,231 - INFO - New best model saved with loss: 0.0494
+2024-12-05 13:05:41,350 - INFO - Epoch 22/50, Average Loss: 0.0461
+2024-12-05 13:05:49,352 - INFO - New best model saved with loss: 0.0461
+2024-12-05 13:06:29,410 - INFO - Epoch 23/50, Average Loss: 0.0425
+2024-12-05 13:06:37,337 - INFO - New best model saved with loss: 0.0425
+2024-12-05 13:07:18,888 - INFO - Epoch 24/50, Average Loss: 0.0406
+2024-12-05 13:07:26,831 - INFO - New best model saved with loss: 0.0406
+2024-12-05 13:08:08,617 - INFO - Epoch 25/50, Average Loss: 0.0382
+2024-12-05 13:08:16,686 - INFO - New best model saved with loss: 0.0382
+2024-12-05 13:09:20,931 - INFO - Epoch 26/50, Average Loss: 0.0365
+2024-12-05 13:09:29,757 - INFO - New best model saved with loss: 0.0365
+2024-12-05 13:10:14,157 - INFO - Epoch 27/50, Average Loss: 0.0340
+2024-12-05 13:10:22,202 - INFO - New best model saved with loss: 0.0340
+2024-12-05 13:11:04,510 - INFO - Epoch 28/50, Average Loss: 0.0327
+2024-12-05 13:11:12,619 - INFO - New best model saved with loss: 0.0327
+2024-12-05 13:11:51,614 - INFO - Epoch 29/50, Average Loss: 0.0314
+2024-12-05 13:11:59,413 - INFO - New best model saved with loss: 0.0314
+2024-12-05 13:12:39,064 - INFO - Epoch 30/50, Average Loss: 0.0291
+2024-12-05 13:12:46,753 - INFO - New best model saved with loss: 0.0291
+2024-12-05 13:13:46,358 - INFO - Epoch 31/50, Average Loss: 0.0279
+2024-12-05 13:13:54,600 - INFO - New best model saved with loss: 0.0279
+2024-12-05 13:14:37,835 - INFO - Epoch 32/50, Average Loss: 0.0264
+2024-12-05 13:14:45,907 - INFO - New best model saved with loss: 0.0264
+2024-12-05 13:15:34,852 - INFO - Epoch 33/50, Average Loss: 0.0254
+2024-12-05 13:15:45,552 - INFO - New best model saved with loss: 0.0254
+2024-12-05 13:16:27,026 - INFO - Epoch 34/50, Average Loss: 0.0243
+2024-12-05 13:16:34,985 - INFO - New best model saved with loss: 0.0243
+2024-12-05 13:17:23,927 - INFO - Epoch 35/50, Average Loss: 0.0236
+2024-12-05 13:17:31,968 - INFO - New best model saved with loss: 0.0236
+2024-12-05 13:18:11,355 - INFO - Epoch 36/50, Average Loss: 0.0219
+2024-12-05 13:18:19,546 - INFO - New best model saved with loss: 0.0219
+2024-12-05 13:19:01,263 - INFO - Epoch 37/50, Average Loss: 0.0217
+2024-12-05 13:19:09,531 - INFO - New best model saved with loss: 0.0217
+2024-12-05 13:19:52,838 - INFO - Epoch 38/50, Average Loss: 0.0207
+2024-12-05 13:20:01,112 - INFO - New best model saved with loss: 0.0207
+2024-12-05 13:20:41,035 - INFO - Epoch 39/50, Average Loss: 0.0198
+2024-12-05 13:20:49,182 - INFO - New best model saved with loss: 0.0198
+2024-12-05 13:21:30,168 - INFO - Epoch 40/50, Average Loss: 0.0194
+2024-12-05 13:21:37,834 - INFO - New best model saved with loss: 0.0194
+2024-12-05 13:22:17,702 - INFO - Epoch 41/50, Average Loss: 0.0189
+2024-12-05 13:22:25,489 - INFO - New best model saved with loss: 0.0189
+2024-12-05 13:23:07,484 - INFO - Epoch 42/50, Average Loss: 0.0178
+2024-12-05 13:23:17,084 - INFO - New best model saved with loss: 0.0178
+2024-12-05 13:24:10,533 - INFO - Epoch 43/50, Average Loss: 0.0176
+2024-12-05 13:24:18,533 - INFO - New best model saved with loss: 0.0176
+2024-12-05 13:25:00,661 - INFO - Epoch 44/50, Average Loss: 0.0166
+2024-12-05 13:25:08,554 - INFO - New best model saved with loss: 0.0166
+2024-12-05 13:25:53,006 - INFO - Epoch 45/50, Average Loss: 0.0163
+2024-12-05 13:26:01,125 - INFO - New best model saved with loss: 0.0163
+2024-12-05 13:26:43,843 - INFO - Epoch 46/50, Average Loss: 0.0156
+2024-12-05 13:26:51,912 - INFO - New best model saved with loss: 0.0156
+2024-12-05 13:27:36,088 - INFO - Epoch 47/50, Average Loss: 0.0151
+2024-12-05 13:27:44,233 - INFO - New best model saved with loss: 0.0151
+2024-12-05 13:28:30,454 - INFO - Epoch 48/50, Average Loss: 0.0147
+2024-12-05 13:28:39,049 - INFO - New best model saved with loss: 0.0147
+2024-12-05 13:29:36,662 - INFO - Epoch 49/50, Average Loss: 0.0143
+2024-12-05 13:29:44,877 - INFO - New best model saved with loss: 0.0143
+2024-12-05 13:30:45,242 - INFO - Epoch 50/50, Average Loss: 0.0137
+2024-12-05 13:30:54,889 - INFO - New best model saved with loss: 0.0137

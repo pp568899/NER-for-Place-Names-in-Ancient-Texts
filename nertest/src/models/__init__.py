@@ -1,0 +1,1 @@
+from .bert_bilstm_crf import BertBiLSTMCRF 

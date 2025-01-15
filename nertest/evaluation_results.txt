@@ -1,0 +1,26 @@
+=== 评估结果 ===
+
+O:
+Precision: 0.9038
+Recall: 0.9843
+F1: 0.9424
+
+B-LOC:
+Precision: 0.8125
+Recall: 0.6341
+F1: 0.7123
+
+I-LOC:
+Precision: 0.8983
+Recall: 0.7910
+F1: 0.8413
+
+总体指标:
+Macro Precision: 0.8716
+Macro Recall: 0.8032
+Macro F1: 0.8320
+
+混淆矩阵:
+[[188   2   1]
+ [ 10  26   5]
+ [ 10   4  53]]
